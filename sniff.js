@@ -62,8 +62,8 @@ async function listPods(projectName, isFirstRead = false) {
         pods.forEach(pod => {
             const prevState = podStates[projectName][pod.name];
             if (!prevState || prevState.phase !== pod.phase) {
-                if (!isFirstRead && !stateChanged && firstChange) {
-                    process.stdout.write('\n'); // Start a new line for state change
+                if (!isFirstRead && firstChange) {
+                    process.stdout.write('\n'); // Start a new line for the first state change
                     firstChange = false;
                 }
                 console.log(chalk.hex('#FF00FF')(`Pod ${pod.name} in project ${projectName} changed phase from ${prevState ? prevState.phase : 'unknown'} to ${pod.phase}`));
@@ -94,11 +94,13 @@ async function listPods(projectName, isFirstRead = false) {
 
 async function monitorInterval(projectsToMonitor, projectData) {
     for (const [index, name] of projectsToMonitor.entries()) {
-        await new Promise(resolve => setTimeout(resolve, 150));
+        await new Promise(resolve => setTimeout(resolve, 100));
         const pods = await listPods(name);
         projectData[name].pods = pods; // Add pods to project data
     }
 }
+
+const ignoredProjects = ['openshift-monitoring', 'openshift-node','openshift-sdn']; // List of projects to ignore
 
 async function listProjects() {
     try {
@@ -112,9 +114,12 @@ async function listProjects() {
 
         const projectNames = data.items.map(project => project.metadata.name);
 
+        // Filter out ignored projects
+        const filteredProjectNames = projectNames.filter(name => !ignoredProjects.includes(name));
+
         // Initialize project data with basic info
         const projectData = {};
-        for (const name of projectNames) {
+        for (const name of filteredProjectNames) {
             projectData[name] = { name, pods: await listPods(name, true) }; // Add pods to project data
         }
 
@@ -123,18 +128,18 @@ async function listProjects() {
 
         let projectsToMonitor;
         if (allProjects) {
-            projectsToMonitor = projectNames;
+            projectsToMonitor = filteredProjectNames;
         } else {
             // Read the projects to monitor from the properties file
             const monitorProjects = fs.readFileSync(path.join(__dirname, 'monitor.properties'), 'utf8').split('\n').map(line => line.trim());
             // Filter the projects to monitor
-            projectsToMonitor = projectNames.filter(name => monitorProjects.includes(name));
+            projectsToMonitor = filteredProjectNames.filter(name => monitorProjects.includes(name));
         }
 
         // Create a handler to monitor projects periodically
         const monitorProjectsPeriodically = async () => {
             await monitorInterval(projectsToMonitor, projectData);
-            process.stdout.write('|'); // Print "|" for the pause
+            process.stdout.write('⏸'); // Print "⏸" for the pause
             setTimeout(monitorProjectsPeriodically, 10000); // Pause for 10 seconds after all projects are monitored
         };
 

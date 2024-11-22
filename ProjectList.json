@@ -323,7 +323,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-gedpessoas-frontend-146-vrwtm",
+        "name": "hom-gedpessoas-frontend-147-q2f8f",
         "phase": "Running"
       },
       {
@@ -421,7 +421,7 @@
     "name": "area-exclusiva-do-aluno-sp",
     "pods": [
       {
-        "name": "area-exclusiva-68-q4gz5",
+        "name": "area-exclusiva-69-wzmjs",
         "phase": "Running"
       },
       {
@@ -649,23 +649,43 @@
         "phase": "Failed"
       },
       {
-        "name": "catalago-api-69-jpcsm",
+        "name": "catalago-api-70-dbcw4",
         "phase": "Running"
       },
       {
-        "name": "catalago-front-50-nkrmp",
+        "name": "catalago-api-81-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "catalago-front-52-ttgvh",
         "phase": "Running"
+      },
+      {
+        "name": "catalago-front-72-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "catalago-front-73-build",
+        "phase": "Succeeded"
       },
       {
         "name": "dev-catalago-api-110-build",
         "phase": "Failed"
       },
       {
-        "name": "dev-catalago-api-114-ds9dv",
+        "name": "dev-catalago-api-116-brzwc",
         "phase": "Running"
       },
       {
-        "name": "dev-catalago-front-194-lhxvw",
+        "name": "dev-catalago-api-134-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-api-135-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-front-199-qfsgk",
         "phase": "Running"
       },
       {
@@ -673,19 +693,59 @@
         "phase": "Failed"
       },
       {
-        "name": "dev-catalago-front-450-build",
+        "name": "dev-catalago-front-453-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-catalago-front-454-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-catalago-front-455-build",
         "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-front-456-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-front-457-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-front-458-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-catalago-front-459-build",
+        "phase": "Running"
       },
       {
         "name": "hom-catalago-api-65-build",
         "phase": "Failed"
       },
       {
-        "name": "hom-catalago-api-74-hlx69",
+        "name": "hom-catalago-api-75-ssnpw",
         "phase": "Running"
       },
       {
-        "name": "hom-catalago-front-52-pr4kj",
+        "name": "hom-catalago-api-88-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-catalago-api-89-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-catalago-front-102-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-catalago-front-103-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-catalago-front-54-q8scn",
         "phase": "Running"
       },
       {
@@ -710,19 +770,23 @@
         "phase": "Failed"
       },
       {
-        "name": "admin-central-docs-ms-109-86vq7",
+        "name": "admin-central-docs-ms-111-7nm5q",
         "phase": "Running"
       },
       {
-        "name": "admin-central-docs-ms-109-cbwgg",
+        "name": "admin-central-docs-ms-111-d26cv",
         "phase": "Running"
       },
       {
-        "name": "admin-central-docs-ms-109-xdqf7",
+        "name": "admin-central-docs-ms-111-qtrl8",
         "phase": "Running"
       },
       {
-        "name": "admin-central-docs-ms-112-build",
+        "name": "admin-central-docs-ms-113-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "admin-central-docs-ms-114-build",
         "phase": "Succeeded"
       },
       {
@@ -740,10 +804,6 @@
       {
         "name": "central-docs-60-rm9lt",
         "phase": "Running"
-      },
-      {
-        "name": "central-docs-70-build",
-        "phase": "Succeeded"
       },
       {
         "name": "central-docs-ms-196-2kbrh",
@@ -798,7 +858,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hcentral-docs-ms-452-5p2bp",
+        "name": "hcentral-docs-ms-453-z4f5w",
         "phase": "Running"
       },
       {
@@ -1379,7 +1439,11 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-sigap-276-hgtbq",
+        "name": "hom-sigap-277-kcgkx",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sigap-367-build",
         "phase": "Running"
       },
       {
@@ -2920,473 +2984,6 @@
     "name": "openshift-logging",
     "pods": []
   },
-  "openshift-monitoring": {
-    "name": "openshift-monitoring",
-    "pods": [
-      {
-        "name": "alertmanager-main-0",
-        "phase": "Running"
-      },
-      {
-        "name": "alertmanager-main-1",
-        "phase": "Running"
-      },
-      {
-        "name": "alertmanager-main-2",
-        "phase": "Running"
-      },
-      {
-        "name": "cluster-monitoring-operator-5d77cfbcb9-tfngh",
-        "phase": "Running"
-      },
-      {
-        "name": "grafana-5897b47b77-x9tt4",
-        "phase": "Running"
-      },
-      {
-        "name": "kube-state-metrics-5fc856997f-kqpxf",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-26txs",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-2kdl5",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-4wdsv",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-5j9d9",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-69mps",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-6ljgm",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-6z4jf",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-8th48",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-cl9lt",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-dspk9",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-dvtwm",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-hp5xq",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-j8zrm",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-jvckq",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-k6bq9",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-nkvv4",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-pvv9r",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-qsx5h",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-sn7k9",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-t2j65",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-t78l5",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-xztdb",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-z47s2",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-z69jz",
-        "phase": "Running"
-      },
-      {
-        "name": "node-exporter-zm62z",
-        "phase": "Running"
-      },
-      {
-        "name": "prometheus-k8s-0",
-        "phase": "Running"
-      },
-      {
-        "name": "prometheus-k8s-1",
-        "phase": "Running"
-      },
-      {
-        "name": "prometheus-k8s-2",
-        "phase": "Running"
-      },
-      {
-        "name": "prometheus-operator-74b67954bc-m4g8k",
-        "phase": "Running"
-      }
-    ]
-  },
-  "openshift-node": {
-    "name": "openshift-node",
-    "pods": [
-      {
-        "name": "sync-22d2t",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-2dt28",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-2jmkk",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-5q8ff",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-6f4l4",
-        "phase": "Pending"
-      },
-      {
-        "name": "sync-6jzgb",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-6vszl",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-89gjp",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-9xdpl",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-c64bb",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-d75vx",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-gmzcj",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-jvb55",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-lhgtx",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-lj85b",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-m8sw5",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-nqzh5",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-q26pp",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-q55j7",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-rlwlk",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-rzzfx",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-t7fwl",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-t8qz2",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-vck7w",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-wkhb7",
-        "phase": "Running"
-      },
-      {
-        "name": "sync-zzlgw",
-        "phase": "Running"
-      }
-    ]
-  },
-  "openshift-sdn": {
-    "name": "openshift-sdn",
-    "pods": [
-      {
-        "name": "ovs-4jt48",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-4xgcf",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-6rqsp",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-885jq",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-8htzv",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-8kbgc",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-9v6vv",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-b6lxf",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-blb59",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-d2vp9",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-fj4fx",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-fsb8n",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-gwxgn",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-hlb4m",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-hmmz6",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-htv5m",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-jmh5v",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-l9kmc",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-n4cqm",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-nqft7",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-p465b",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-pph99",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-qrllj",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-rp6ns",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-vkh4c",
-        "phase": "Running"
-      },
-      {
-        "name": "ovs-w9j2b",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-4wtbc",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-6gssg",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-6xbsl",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-8jhwz",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-965l7",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-9jtwm",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-cclxp",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-ctlpz",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-dmd5t",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-dsks6",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-f2qlq",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-gbpdk",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-gkrbd",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-h4d6b",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-j7wxz",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-jbvkn",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-l72p5",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-m9nwc",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-mdl4h",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-q84h5",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-qxffn",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-r5fhz",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-s5b2g",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-tq6x2",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-vcz9h",
-        "phase": "Running"
-      },
-      {
-        "name": "sdn-wnbln",
-        "phase": "Running"
-      }
-    ]
-  },
   "openshift-web-console": {
     "name": "openshift-web-console",
     "pods": [
@@ -3416,28 +3013,12 @@
         "phase": "Running"
       },
       {
-        "name": "dpainel-matriculas-247-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dpainel-matriculas-248-build",
-        "phase": "Succeeded"
-      },
-      {
         "name": "dpainel-matriculas-ms-275-zrqgc",
         "phase": "Running"
       },
       {
         "name": "hpainel-matriculas-220-wchs8",
         "phase": "Running"
-      },
-      {
-        "name": "hpainel-matriculas-236-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hpainel-matriculas-237-build",
-        "phase": "Succeeded"
       },
       {
         "name": "hpainel-matriculas-ms-272-ph6f5",
@@ -3478,7 +3059,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-patrimonio-2498-lspz9",
+        "name": "hom-patrimonio-2500-v897z",
         "phase": "Running"
       },
       {
@@ -3623,7 +3204,11 @@
         "phase": "Running"
       },
       {
-        "name": "hom2-sync-dxp-191-j6x4b",
+        "name": "hom2-sync-dxp-184-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom2-sync-dxp-192-bwsjz",
         "phase": "Running"
       },
       {
@@ -4166,20 +3751,16 @@
         "phase": "Running"
       },
       {
-        "name": "producao-360-frontend-dev-16-mbc7m",
+        "name": "producao-360-frontend-dev-17-s7ndb",
         "phase": "Running"
       },
       {
-        "name": "producao-360-frontend-dev-17-build",
+        "name": "producao-360-frontend-dev-18-build",
         "phase": "Succeeded"
       },
       {
         "name": "producao-360-frontend-hom-15-qtp5q",
         "phase": "Running"
-      },
-      {
-        "name": "producao-360-frontend-hom-18-build",
-        "phase": "Succeeded"
       },
       {
         "name": "producao-360-frontend-prod-2-llct9",
@@ -4654,7 +4235,7 @@
     "name": "senac-carreiras",
     "pods": [
       {
-        "name": "dev-senac-carreiras-1816-4t2qs",
+        "name": "dev-senac-carreiras-1819-5cnnf",
         "phase": "Running"
       },
       {
@@ -4662,11 +4243,7 @@
         "phase": "Failed"
       },
       {
-        "name": "dev-senac-carreiras-1981-build",
-        "phase": "Running"
-      },
-      {
-        "name": "hom-senac-carreiras-133-ndzf7",
+        "name": "hom-senac-carreiras-134-5mxjs",
         "phase": "Running"
       },
       {
@@ -5125,12 +4702,16 @@
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-hom-156-42kpm",
+        "name": "ws-pessoa-ge-hom-157-b4wtw",
         "phase": "Running"
       },
       {
         "name": "ws-pessoa-ge-hom-192-build",
         "phase": "Failed"
+      },
+      {
+        "name": "ws-pessoa-ge-hom-196-build",
+        "phase": "Succeeded"
       },
       {
         "name": "ws-pessoa-ge-prod-81-2bt79",
