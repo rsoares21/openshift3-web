@@ -1,0 +1,5360 @@
+{
+  "acod-odonto": {
+    "name": "acod-odonto",
+    "pods": [
+      {
+        "name": "commandbox-teste-29-n6hfh",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-acod-odonto-600-rwspg",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-acod-odonto-610-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-acod-odonto-front-249-pb48k",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-acod-odonto-redis-35-xdjcb",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-odont-cloudcmd-2-5l7mw",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-acod-odonto-447-zrlk5",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-acod-odonto-501-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-acod-odonto-cloudcmd-2-tn44n",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-acod-odonto-front-242-s6kz5",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-acod-odonto-front-245-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-acod-odonto-redis-46-4dnsk",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-acod-odont-cloudcmd-4-g822v",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-acod-odonto-71-qd9zt",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-acod-odonto-front-54-5ht7k",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-acod-odonto-redis-9-2mrqr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "adm-substituicao": {
+    "name": "adm-substituicao",
+    "pods": [
+      {
+        "name": "adm-sub-backend-79-p7gh9",
+        "phase": "Running"
+      },
+      {
+        "name": "adm-sub-frontend-38-rw5rf",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-adm-sub-backend-26-l5tzz",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-adm-sub-frontend-26-mcrmp",
+        "phase": "Running"
+      }
+    ]
+  },
+  "admti": {
+    "name": "admti",
+    "pods": [
+      {
+        "name": "admti-84-8sc2k",
+        "phase": "Running"
+      },
+      {
+        "name": "admti-86-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "admti-service-42-crdld",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-admti-50-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-admti-51-8rsxr",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-admti-service-84-zfpcd",
+        "phase": "Running"
+      }
+    ]
+  },
+  "agendamento-ensino-superior": {
+    "name": "agendamento-ensino-superior",
+    "pods": [
+      {
+        "name": "agend-ens-api-12-b6jtl",
+        "phase": "Running"
+      },
+      {
+        "name": "agend-ens-cms-14-wr4v9",
+        "phase": "Running"
+      },
+      {
+        "name": "agend-ens-front-13-cp6mv",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-agend-ens-api-15-rfvzr",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-agend-ens-cms-8-vvrnz",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-agend-ens-front-12-968tk",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-agend-ens-api-7-rtq5g",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-agend-ens-cms-9-gdzkl",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-agend-ens-front-8-rh74t",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-agend-dev-7-t5l8x",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-agend-hom-6-9mx8b",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-agend-prod-5-bqhm5",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-agend-edu-dev-3-fcxh6",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-agend-edu-hom-2-lmxr9",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-agend-edu-prod-5-xtrsj",
+        "phase": "Running"
+      }
+    ]
+  },
+  "agendamento-qualidade-vida": {
+    "name": "agendamento-qualidade-vida",
+    "pods": []
+  },
+  "api-base-unica": {
+    "name": "api-base-unica",
+    "pods": [
+      {
+        "name": "api-base-unica-hom-21-7gh7g",
+        "phase": "Running"
+      },
+      {
+        "name": "api-base-unica-prod-28-5vcs6",
+        "phase": "Running"
+      }
+    ]
+  },
+  "api-busca-bureau-pj": {
+    "name": "api-busca-bureau-pj",
+    "pods": [
+      {
+        "name": "hom-apibuscabureaupj-1-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-apibuscabureaupj-5-vgj4v",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-apibuscabureaupj-7-flplv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "api-gateway-senac": {
+    "name": "api-gateway-senac",
+    "pods": [
+      {
+        "name": "apicast-production-46-v54ns",
+        "phase": "Running"
+      },
+      {
+        "name": "apicast-production-46-wqcvp",
+        "phase": "Running"
+      },
+      {
+        "name": "apicast-production-46-xctg4",
+        "phase": "Running"
+      },
+      {
+        "name": "apicast-production-46-xk5v2",
+        "phase": "Running"
+      },
+      {
+        "name": "apicast-staging-7-jxn55",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-cron-4-hwxqn",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-listener-7-pzn7r",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-redis-10-nppjr",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-worker-5-28ck7",
+        "phase": "Running"
+      },
+      {
+        "name": "cloudcmd-2-4gmq2",
+        "phase": "Running"
+      },
+      {
+        "name": "system-app-14-9blt8",
+        "phase": "Running"
+      },
+      {
+        "name": "system-memcache-3-lbz5s",
+        "phase": "Running"
+      },
+      {
+        "name": "system-mysql-3-bvqp4",
+        "phase": "Running"
+      },
+      {
+        "name": "system-redis-8-bn69k",
+        "phase": "Running"
+      },
+      {
+        "name": "system-sidekiq-9-jtch8",
+        "phase": "Running"
+      },
+      {
+        "name": "system-sphinx-3-nltmr",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-6-lcd8d",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-database-4-8d4nb",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-que-23-p2gnd",
+        "phase": "Running"
+      }
+    ]
+  },
+  "api-pessoa-depara": {
+    "name": "api-pessoa-depara",
+    "pods": [
+      {
+        "name": "api-pessoa-depara-hom-14-ptnm5",
+        "phase": "Running"
+      },
+      {
+        "name": "api-pessoa-depara-prod-2-5tdld",
+        "phase": "Running"
+      }
+    ]
+  },
+  "aplicacao-ged-pessoas": {
+    "name": "aplicacao-ged-pessoas",
+    "pods": [
+      {
+        "name": "hom-gedpessoas-backend-54-mc6hr",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-gedpessoas-backend-62-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-gedpessoas-frontend-146-vrwtm",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-gedpessoas-backend-11-gbhv6",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-gedpessoas-frontend-69-6zrg7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "app-autenticacao": {
+    "name": "app-autenticacao",
+    "pods": [
+      {
+        "name": "app-autenticacao-44-9wkl4",
+        "phase": "Running"
+      },
+      {
+        "name": "app-autenticacao-44-bmllf",
+        "phase": "Running"
+      },
+      {
+        "name": "apphom-autentica-10-xlhrb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "app-pos-gp-ead": {
+    "name": "app-pos-gp-ead",
+    "pods": [
+      {
+        "name": "app-pos-gp-ead-dev-7-ww4ct",
+        "phase": "Running"
+      }
+    ]
+  },
+  "app-senac": {
+    "name": "app-senac",
+    "pods": [
+      {
+        "name": "app-senac-dev-16-tqv8d",
+        "phase": "Running"
+      },
+      {
+        "name": "app-senac-hom-20-85pwk",
+        "phase": "Running"
+      },
+      {
+        "name": "app-senac-prod-99-ztpss",
+        "phase": "Running"
+      }
+    ]
+  },
+  "app-storage": {
+    "name": "app-storage",
+    "pods": [
+      {
+        "name": "deploy-heketi-storage-3-zllpt",
+        "phase": "Running"
+      },
+      {
+        "name": "glusterfs-storage-488ff",
+        "phase": "Running"
+      },
+      {
+        "name": "glusterfs-storage-9llgw",
+        "phase": "Running"
+      },
+      {
+        "name": "glusterfs-storage-z66sw",
+        "phase": "Running"
+      },
+      {
+        "name": "heketi-storage-4-4q6zh",
+        "phase": "Running"
+      }
+    ]
+  },
+  "appscoldfusionse": {
+    "name": "appscoldfusionse",
+    "pods": [
+      {
+        "name": "apps-ca-se-16-xx4vz",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-apps-ca-se-17-cxfcx",
+        "phase": "Running"
+      }
+    ]
+  },
+  "area-exclusiva-do-aluno-sp": {
+    "name": "area-exclusiva-do-aluno-sp",
+    "pods": [
+      {
+        "name": "area-exclusiva-68-q4gz5",
+        "phase": "Running"
+      },
+      {
+        "name": "catalogo-psicossocial-16-5z4cs",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-124-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-area-exclusiva-133-57fs5",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-133-5vnh2",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-133-mbpgj",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-133-mhs74",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-133-xtbh7",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-area-exclusiva-24-m6tj6",
+        "phase": "Running"
+      }
+    ]
+  },
+  "auth-redirect-ead": {
+    "name": "auth-redirect-ead",
+    "pods": [
+      {
+        "name": "dev-auth-redirect-ead-1-2wlws",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-redirect-ead-1-brs9f",
+        "phase": "Running"
+      }
+    ]
+  },
+  "barramento-fuse": {
+    "name": "barramento-fuse",
+    "pods": []
+  },
+  "base-unica-api-buscar-depara": {
+    "name": "base-unica-api-buscar-depara",
+    "pods": [
+      {
+        "name": "bu-buscar-depara-10-5qdtq",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-buscar-depara-19-ffwfr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "base-unica-api-buscar-pessoa": {
+    "name": "base-unica-api-buscar-pessoa",
+    "pods": [
+      {
+        "name": "bu-buscar-pessoa-9-9vllw",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-buscar-pessoa-22-fwgpq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "base-unica-api-consulta-cep": {
+    "name": "base-unica-api-consulta-cep",
+    "pods": [
+      {
+        "name": "bu-api-consulta-cep-21-gbv42",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-consulta-cep-10-575cg",
+        "phase": "Running"
+      }
+    ]
+  },
+  "base-unica-api-consulta-cpf": {
+    "name": "base-unica-api-consulta-cpf",
+    "pods": [
+      {
+        "name": "bu-api-consulta-cpf-64-j28x4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-consulta-cpf-12-txssr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "base-unica-api-pessoa": {
+    "name": "base-unica-api-pessoa",
+    "pods": [
+      {
+        "name": "bu-api-pessoa-10-cwsc2",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-pessoa-43-57j2n",
+        "phase": "Running"
+      }
+    ]
+  },
+  "base-unica-api-validar-cpf-cnpj": {
+    "name": "base-unica-api-validar-cpf-cnpj",
+    "pods": [
+      {
+        "name": "hom-ms-validar-cpf-cnpj-9-xprfc",
+        "phase": "Running"
+      },
+      {
+        "name": "ms-validar-cpf-cnpj-5-h49tz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "blackboard": {
+    "name": "blackboard",
+    "pods": [
+      {
+        "name": "hom-sso-mobile-4-wrpdk",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-mobile-24-qgwq2",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-mobile-uas-16-mp7r5",
+        "phase": "Running"
+      }
+    ]
+  },
+  "blog-eventos": {
+    "name": "blog-eventos",
+    "pods": [
+      {
+        "name": "blog-eventos-66-2xvzf",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-66-cs9tc",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-66-q8jl9",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-66-qwfhr",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-66-rrpcn",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-hom-15-pfv9n",
+        "phase": "Running"
+      },
+      {
+        "name": "ftp-eventos-12-zdjcs",
+        "phase": "Running"
+      },
+      {
+        "name": "mysql-eventos-37-qb4z8",
+        "phase": "Running"
+      },
+      {
+        "name": "mysqladmin-14-27bfq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "camunda": {
+    "name": "camunda",
+    "pods": [
+      {
+        "name": "camunda-hom-2-l7grf",
+        "phase": "Running"
+      },
+      {
+        "name": "camunda-prod-4-fqhwg",
+        "phase": "Running"
+      }
+    ]
+  },
+  "cardapio-hotel": {
+    "name": "cardapio-hotel",
+    "pods": [
+      {
+        "name": "hcard-dev-4-97v2p",
+        "phase": "Running"
+      },
+      {
+        "name": "hcard-hom-4-2mss9",
+        "phase": "Running"
+      },
+      {
+        "name": "hcard-prod-5-mg6cp",
+        "phase": "Running"
+      }
+    ]
+  },
+  "catalogo-de-servicos": {
+    "name": "catalogo-de-servicos",
+    "pods": [
+      {
+        "name": "catalago-api-60-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "catalago-api-69-jpcsm",
+        "phase": "Running"
+      },
+      {
+        "name": "catalago-front-50-nkrmp",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-catalago-api-110-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-catalago-api-114-ds9dv",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-catalago-front-194-lhxvw",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-catalago-front-409-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-catalago-front-450-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-catalago-api-65-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-catalago-api-74-hlx69",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-catalago-front-52-pr4kj",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-catalago-front-91-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "mongo-express-3-fvrht",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-community-server-6-5lwqm",
+        "phase": "Running"
+      }
+    ]
+  },
+  "central-docs": {
+    "name": "central-docs",
+    "pods": [
+      {
+        "name": "admin-central-docs-ms-108-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "admin-central-docs-ms-109-86vq7",
+        "phase": "Running"
+      },
+      {
+        "name": "admin-central-docs-ms-109-cbwgg",
+        "phase": "Running"
+      },
+      {
+        "name": "admin-central-docs-ms-109-xdqf7",
+        "phase": "Running"
+      },
+      {
+        "name": "admin-central-docs-ms-112-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "central-docs-60-f8cvr",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-60-jspss",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-60-nmsrx",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-60-rm9lt",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-70-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "central-docs-ms-196-2kbrh",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-2mr4z",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-52j96",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-8gfdq",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-f5j5m",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-t6f6r",
+        "phase": "Running"
+      },
+      {
+        "name": "dcentral-docs-215-lnssd",
+        "phase": "Running"
+      },
+      {
+        "name": "dcentral-docs-ms-520-xrksl",
+        "phase": "Running"
+      },
+      {
+        "name": "dcentral-docs-ms-572-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dupload-central-docs-82-5xpzl",
+        "phase": "Running"
+      },
+      {
+        "name": "hcentral-docs-119-6f47t",
+        "phase": "Running"
+      },
+      {
+        "name": "hcentral-docs-132-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hcentral-docs-133-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hcentral-docs-ms-452-5p2bp",
+        "phase": "Running"
+      },
+      {
+        "name": "hcentral-docs-ms-460-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hupload-central-docs-53-kswt8",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-67fqk",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-f2hg4",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-h6zfr",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-nhntr",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-s7fb9",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-sh9bs",
+        "phase": "Running"
+      }
+    ]
+  },
+  "centralizador-sms": {
+    "name": "centralizador-sms",
+    "pods": [
+      {
+        "name": "homol-centralizador-sms-22-ggsnr",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-centralizador-cms-16-pvx7p",
+        "phase": "Running"
+      }
+    ]
+  },
+  "cipa": {
+    "name": "cipa",
+    "pods": []
+  },
+  "cold-monitora": {
+    "name": "cold-monitora",
+    "pods": [
+      {
+        "name": "coldfusion-monitora-14-ztjqf",
+        "phase": "Running"
+      }
+    ]
+  },
+  "coldfusion-api-management": {
+    "name": "coldfusion-api-management",
+    "pods": [
+      {
+        "name": "apimanager2021-11-4k2pr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "coldfusion-portal": {
+    "name": "coldfusion-portal",
+    "pods": [
+      {
+        "name": "hom-integracao-portal-cf-21-v2gqh",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-portal-cf-52-8qgsx",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-portal-cf-52-8vpsk",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-portal-cf-52-hk2s5",
+        "phase": "Running"
+      }
+    ]
+  },
+  "coldfusionsamples": {
+    "name": "coldfusionsamples",
+    "pods": []
+  },
+  "colex": {
+    "name": "colex",
+    "pods": [
+      {
+        "name": "colex-19-qbn4l",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-colex-25-4nwj5",
+        "phase": "Running"
+      }
+    ]
+  },
+  "congenit": {
+    "name": "congenit",
+    "pods": [
+      {
+        "name": "congenit-1797-vml5p",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-congenit-417-djr57",
+        "phase": "Running"
+      }
+    ]
+  },
+  "cont-cf-2018": {
+    "name": "cont-cf-2018",
+    "pods": [
+      {
+        "name": "dform-empregamais-dev-28-8qvl7",
+        "phase": "Running"
+      },
+      {
+        "name": "dform-empregamais-hom-13-rt4ql",
+        "phase": "Running"
+      },
+      {
+        "name": "dform-empregamais-prod-21-s5p2r",
+        "phase": "Running"
+      },
+      {
+        "name": "publicador-nginx-53-mdsr9",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dev-2-8mmgs",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-hom-4-wckbs",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-prod-3-ghb46",
+        "phase": "Running"
+      }
+    ]
+  },
+  "controle-crachas": {
+    "name": "controle-crachas",
+    "pods": [
+      {
+        "name": "cont-crachas-front-71-9dvlw",
+        "phase": "Running"
+      },
+      {
+        "name": "controle-crachas-services-66-mhb4k",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cont-crachas-front-102-9qns7",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-controle-crachas-services-127-pnbmx",
+        "phase": "Running"
+      }
+    ]
+  },
+  "controle-seguros": {
+    "name": "controle-seguros",
+    "pods": [
+      {
+        "name": "hom-controle-seg-front-21-tj9dw",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-controle-seguros-13-rg5k4",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-controle-seg-front-109-nlh85",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-controle-seguros-716-zs4vl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "customkafka": {
+    "name": "customkafka",
+    "pods": [
+      {
+        "name": "kafka-dev-13-h49n4",
+        "phase": "Running"
+      },
+      {
+        "name": "monitor-kafka-dev-8-sgj7n",
+        "phase": "Running"
+      },
+      {
+        "name": "zookeeper-dev-5-vghrr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "dados-vestibular": {
+    "name": "dados-vestibular",
+    "pods": [
+      {
+        "name": "dados-vestibular-54-4gmgq",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dados-vestibular-65-pjf6z",
+        "phase": "Running"
+      }
+    ]
+  },
+  "default": {
+    "name": "default",
+    "pods": [
+      {
+        "name": "docker-registry-50-bf8sz",
+        "phase": "Running"
+      },
+      {
+        "name": "docker-registry-50-m6ldn",
+        "phase": "Running"
+      },
+      {
+        "name": "docker-registry-50-zbhsb",
+        "phase": "Running"
+      },
+      {
+        "name": "registry-console-9-nnt4j",
+        "phase": "Running"
+      },
+      {
+        "name": "router-35-2k5xq",
+        "phase": "Running"
+      },
+      {
+        "name": "router-35-bwgfg",
+        "phase": "Running"
+      },
+      {
+        "name": "router-35-fpzh2",
+        "phase": "Running"
+      }
+    ]
+  },
+  "desenho-de-produto": {
+    "name": "desenho-de-produto",
+    "pods": [
+      {
+        "name": "dsp-api-dev-7-fm4mk",
+        "phase": "Running"
+      },
+      {
+        "name": "dsp-api-hom-8-7rv4q",
+        "phase": "Running"
+      },
+      {
+        "name": "dsp-api-prod-14-88tlh",
+        "phase": "Running"
+      },
+      {
+        "name": "dsp-cms-dev-7-kqc7d",
+        "phase": "Running"
+      },
+      {
+        "name": "dsp-cms-hom-8-pk2fm",
+        "phase": "Running"
+      },
+      {
+        "name": "dsp-cms-prod-12-52bm5",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dsp-dev-9-mtzsv",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dsp-hom-6-p7j6x",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dsp-prod-6-wpgch",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dsp-dev-3-gktg6",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dsp-hom-4-ldz6q",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dsp-prod-7-7sbkq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "dxp-integracao": {
+    "name": "dxp-integracao",
+    "pods": [
+      {
+        "name": "dxp-api-integracao-305-22jm8",
+        "phase": "Running"
+      },
+      {
+        "name": "dxp-proxy-soap-5-c4rlw",
+        "phase": "Running"
+      },
+      {
+        "name": "dxp-queue-consumer-125-zn7rc",
+        "phase": "Running"
+      },
+      {
+        "name": "dxp-queue-producer-31-kzthk",
+        "phase": "Running"
+      },
+      {
+        "name": "dxp-scheduler-690-2d66z",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dxp-api-integracao-146-8kqz4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dxp-proxy-soap-28-xdsj9",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dxp-queue-consumer-40-49rxj",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dxp-queue-producer-18-v9xg4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dxp-scheduler-232-vjb47",
+        "phase": "Running"
+      }
+    ]
+  },
+  "dynatrace": {
+    "name": "dynatrace",
+    "pods": []
+  },
+  "elastic-system": {
+    "name": "elastic-system",
+    "pods": [
+      {
+        "name": "elastic-operator-0",
+        "phase": "Running"
+      }
+    ]
+  },
+  "experimental": {
+    "name": "experimental",
+    "pods": [
+      {
+        "name": "mysql-3-xm9sx",
+        "phase": "Running"
+      },
+      {
+        "name": "rundeck-dev-4-l5dj7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "extranetead": {
+    "name": "extranetead",
+    "pods": [
+      {
+        "name": "ftp-service-8-mz8ln",
+        "phase": "Running"
+      },
+      {
+        "name": "novo-relatorio-29-plbq2",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-extranetead-17-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "frotas": {
+    "name": "frotas",
+    "pods": [
+      {
+        "name": "cloudcmd-frotas-hom-2-xrljd",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-frotas-frontend-351-zlz4g",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-frotas-frontend-416-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "ged-repositorio": {
+    "name": "ged-repositorio",
+    "pods": [
+      {
+        "name": "hom-elasticsearch-ged-repositorio-2-cqlqh",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ged-api-426-mg2pm",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ged-api-480-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-ged-front-224-b8qpv",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ged-front-281-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-ged-web-13-p2hsw",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-kibana-ged-43-b46sx",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-logstash-29-zs9dt",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-elastic-ged-0",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-elastic-ged-1",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-elastic-ged-2",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-ged-api-60-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "prod-ged-api-77-7qhp5",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-ged-api-77-xzg4d",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-ged-front-40-94jwf",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-kibana-ged-5-mkpd2",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-logstash-61-h72pv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gestao-acervo": {
+    "name": "gestao-acervo",
+    "pods": [
+      {
+        "name": "api-gestaoacervo-dev-119-shj2z",
+        "phase": "Running"
+      },
+      {
+        "name": "api-gestaoacervo-hom-97-ws52v",
+        "phase": "Running"
+      },
+      {
+        "name": "api-gestaoacervo-prod-92-hwhv8",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-gestaoacervo-dev-73-zjjxh",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-gestaoacervo-hom-69-b7h6h",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-gestaoacervo-prod-142-4kjng",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-saml-prod-17-8ln5h",
+        "phase": "Running"
+      },
+      {
+        "name": "front-gestaoacervo-dev-42-86vrl",
+        "phase": "Running"
+      },
+      {
+        "name": "front-gestaoacervo-hom-52-64hf4",
+        "phase": "Running"
+      },
+      {
+        "name": "front-gestaoacervo-prod-68-k7gcn",
+        "phase": "Running"
+      },
+      {
+        "name": "httpd-example-2-kgjbh",
+        "phase": "Running"
+      },
+      {
+        "name": "publicador-nginx-58-hbhrx",
+        "phase": "Running"
+      },
+      {
+        "name": "publicador-nginx-dev-15-78gxw",
+        "phase": "Running"
+      },
+      {
+        "name": "publicador-nginx-hom-13-nvlj7",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-gestao-dev-17-vq2s9",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-gestao-hom-30-msn5j",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-gestao-prod-28-7lmvl",
+        "phase": "Running"
+      },
+      {
+        "name": "x-teste-8-g266p",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gestao-educacional": {
+    "name": "gestao-educacional",
+    "pods": [
+      {
+        "name": "dev-sigap-475-rdczs",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-sigap-648-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-sigap-276-hgtbq",
+        "phase": "Running"
+      },
+      {
+        "name": "sigap-237-dvvbt",
+        "phase": "Running"
+      },
+      {
+        "name": "sigap-239-deploy",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "gestao-educacional-imagens": {
+    "name": "gestao-educacional-imagens",
+    "pods": [
+      {
+        "name": "wspessoa-dev-4-sx6bp",
+        "phase": "Running"
+      },
+      {
+        "name": "wspessoa-hom-4-hvtxl",
+        "phase": "Running"
+      },
+      {
+        "name": "wspessoa-prd-1-q767z",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gestao-expediente": {
+    "name": "gestao-expediente",
+    "pods": [
+      {
+        "name": "dev-gestao-expediente-48-8hwsg",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-gestao-expediente-63-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-gestao-expediente-113-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-gestao-expediente-96-cfxhb",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-gestao-expediente-163-6vcwk",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-expediente-3-bwnmf",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gestao-gatilhos": {
+    "name": "gestao-gatilhos",
+    "pods": [
+      {
+        "name": "gestao-gatilhos-hom-3-v5dkn",
+        "phase": "Running"
+      },
+      {
+        "name": "gestao-gatilhos-prod-3-7wsrr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "graduacao-sp": {
+    "name": "graduacao-sp",
+    "pods": [
+      {
+        "name": "cms-15-pkct4",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-arquivo-server-graduacao-7-gn8kv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gtae-materiais": {
+    "name": "gtae-materiais",
+    "pods": [
+      {
+        "name": "gep-nec-cursos-01-7-bldgb",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-02-4-gl7s6",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-03-3-xksjx",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-04-2-bv5jg",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-05-6-bvrtn",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-06-9-zjjfw",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-07-5-hvfb6",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-08-3-sg2lj",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-09-3-d97w7",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-10-4-tbs42",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-abertura-1-d2mch",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-agressividade-5-jzrgq",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-ansiedade-3-p8dgd",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-crises-5-n94xv",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-drogas-6-gg6hp",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-estresse-4-w59jq",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-saude-mental-4-tshrn",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-suicidio-4-c4ld9",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-post-tristeza-4-h9zh8",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-saude-mental-rises-3-wncbp",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-cursos-teams-educacional-react-21-jwgwt",
+        "phase": "Running"
+      },
+      {
+        "name": "gep-nec-teams-rises-3-tk5ld",
+        "phase": "Running"
+      },
+      {
+        "name": "gtae-ti-multimidia-5-nl458",
+        "phase": "Running"
+      },
+      {
+        "name": "poc-react-3-nmtk5",
+        "phase": "Running"
+      },
+      {
+        "name": "poc-rise-16-pdbnc",
+        "phase": "Running"
+      },
+      {
+        "name": "rta-externo-5-6wmt2",
+        "phase": "Running"
+      },
+      {
+        "name": "rta-interno-1-v2kmn",
+        "phase": "Running"
+      },
+      {
+        "name": "tutorial-copilot-4-pxcmr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "gtea-banco-ferramentas-digitais": {
+    "name": "gtea-banco-ferramentas-digitais",
+    "pods": [
+      {
+        "name": "banco-ferramentas-digitais-43-vc7dq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "harness-delegate-ng": {
+    "name": "harness-delegate-ng",
+    "pods": [
+      {
+        "name": "kubernetes-delegate-69cf6b6bfb-nxnvb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "harness-integracao-testes": {
+    "name": "harness-integracao-testes",
+    "pods": [
+      {
+        "name": "cloudcmd-5f6484c9c5-p7fzk",
+        "phase": "Running"
+      }
+    ]
+  },
+  "harness-validacao": {
+    "name": "harness-validacao",
+    "pods": []
+  },
+  "historico-aprovacao-contrato": {
+    "name": "historico-aprovacao-contrato",
+    "pods": [
+      {
+        "name": "hom-aprovacao-homologacao-22-bwnzs",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-historico-aprovacao-34-d7lv2",
+        "phase": "Running"
+      }
+    ]
+  },
+  "hom-api-gateway-senac": {
+    "name": "hom-api-gateway-senac",
+    "pods": [
+      {
+        "name": "apicast-production-7-vl762",
+        "phase": "Running"
+      },
+      {
+        "name": "apicast-staging-3-wddwt",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-cron-3-2qjqp",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-listener-1-5vvhz",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-redis-2-8thnh",
+        "phase": "Running"
+      },
+      {
+        "name": "backend-worker-3-lpnpc",
+        "phase": "Running"
+      },
+      {
+        "name": "system-app-5-x2mpk",
+        "phase": "Running"
+      },
+      {
+        "name": "system-memcache-1-pjl8w",
+        "phase": "Running"
+      },
+      {
+        "name": "system-mysql-1-sds5g",
+        "phase": "Running"
+      },
+      {
+        "name": "system-redis-2-lrmph",
+        "phase": "Running"
+      },
+      {
+        "name": "system-sidekiq-4-7k657",
+        "phase": "Running"
+      },
+      {
+        "name": "system-sphinx-3-jrbqg",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-5-crzbg",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-database-1-s5fjh",
+        "phase": "Running"
+      },
+      {
+        "name": "zync-que-2-nwjb4",
+        "phase": "Running"
+      }
+    ]
+  },
+  "hom-portal-senac-fila": {
+    "name": "hom-portal-senac-fila",
+    "pods": [
+      {
+        "name": "hom-kafkabackend-11-hkhz7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "hom-sso-76": {
+    "name": "hom-sso-76",
+    "pods": [
+      {
+        "name": "cloudcmd-3-v5jqr",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-example-1-zvk4z",
+        "phase": "Running"
+      },
+      {
+        "name": "rhsso-custom-1-vkf2h",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-63-tfqtg",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-postgresql-2-smn95",
+        "phase": "Running"
+      }
+    ]
+  },
+  "horarios-escalas": {
+    "name": "horarios-escalas",
+    "pods": [
+      {
+        "name": "hom-valida-escala-16-fr8pp",
+        "phase": "Running"
+      },
+      {
+        "name": "valida-escala-14-nm4k4",
+        "phase": "Running"
+      }
+    ]
+  },
+  "hoteis-coldfusion": {
+    "name": "hoteis-coldfusion",
+    "pods": [
+      {
+        "name": "dhoteis-4-rfd6r",
+        "phase": "Running"
+      },
+      {
+        "name": "hhoteis-4-ft557",
+        "phase": "Running"
+      },
+      {
+        "name": "hoteis-5-nktzv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ideias": {
+    "name": "ideias",
+    "pods": [
+      {
+        "name": "ideias-hom-63-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "infra-storage": {
+    "name": "infra-storage",
+    "pods": [
+      {
+        "name": "glusterfs-registry-4wgp5",
+        "phase": "Running"
+      },
+      {
+        "name": "glusterfs-registry-7cbbl",
+        "phase": "Running"
+      },
+      {
+        "name": "glusterfs-registry-dtdwh",
+        "phase": "Running"
+      }
+    ]
+  },
+  "inovacao-dform": {
+    "name": "inovacao-dform",
+    "pods": [
+      {
+        "name": "cloudcmd-dform-4-pqbl6",
+        "phase": "Running"
+      },
+      {
+        "name": "dformdinamico-63-5jz29",
+        "phase": "Running"
+      },
+      {
+        "name": "formdinamico-24-q4chw",
+        "phase": "Running"
+      },
+      {
+        "name": "hformdinamico-12-8rxkz",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dform-93-cdfpd",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dform-dev-9-59gwm",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-dform-hom-10-tkfmk",
+        "phase": "Running"
+      },
+      {
+        "name": "teste-env-coldfusion-9-xkvjc",
+        "phase": "Running"
+      }
+    ]
+  },
+  "inscricao-bolsa-coldfusion": {
+    "name": "inscricao-bolsa-coldfusion",
+    "pods": [
+      {
+        "name": "hom-backend-inscricao-bolsa-36-jb8hv",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-dados-pessoais-inscricao-bolsa-36-676fk",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-pre-req-inscricao-bolsa-39-55zxn",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-renda-conclusao-inscricao-bolsa-37-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-renda-conclusao-inscricao-bolsa-38-nklw8",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-bolsa-dev-157-xjf6p",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-bolsa-hom-177-rvhcn",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-bolsa-prod-100-ndsqc",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-bolsa-prod-100-r87vm",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-dev-redis-1-4ctfg",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-hom-redis-3-crw89",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-prod-redis-4-9dmf7",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-5z927",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-8bnm4",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-fhb6b",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-fx7kh",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-l2rct",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-m6jlm",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-rvgqh",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-backend-inscricao-bolsa-25-s92xv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-blw2v",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-fndrz",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-gmngp",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-j9wnb",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-lq5nv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-pc8cz",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-rjswz",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-pre-req-inscricao-bolsa-28-5txgv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-pre-req-inscricao-bolsa-28-9lrp8",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-pre-req-inscricao-bolsa-28-crsld",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-pre-req-inscricao-bolsa-28-rqclc",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-2rfd8",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-2tm56",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-dtc9c",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-gm5kz",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-j2h2q",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-nhxgw",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-renda-conclusao-inscricao-bolsa-25-nnplt",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracao-assinatura-eletronica": {
+    "name": "integracao-assinatura-eletronica",
+    "pods": [
+      {
+        "name": "assina-eletron-api-dev-10-7mdkr",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-api-hom-8-f4www",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-api-pro-11-tqkt8",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-cms-dev-11-5c5wk",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-cms-hom-7-chwz2",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-cms-pro-11-fpbjg",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-front-dev-9-bgjb9",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-front-hom-6-ln9cv",
+        "phase": "Running"
+      },
+      {
+        "name": "assina-eletron-front-pro-8-9h8xz",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-assint-eletr-dev-6-9c49h",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-assint-eletr-hom-5-9bt47",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-assint-eletr-prod-7-vbwwm",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-assinatura-prod-2-lc28v",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-assint-eletr-dev-2-4s99k",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-assint-eletr-hom-2-n28cw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracao-do-software-sgo-ac": {
+    "name": "integracao-do-software-sgo-ac",
+    "pods": [
+      {
+        "name": "dev-sgo-ac-1-rk79q",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracao-estagio": {
+    "name": "integracao-estagio",
+    "pods": [
+      {
+        "name": "integracao-estagio-dev-12-kkg79",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-estagio-hom-8-grkn5",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-estagio-prod-8-9vms9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracao-gef": {
+    "name": "integracao-gef",
+    "pods": []
+  },
+  "integracao-paradigma": {
+    "name": "integracao-paradigma",
+    "pods": [
+      {
+        "name": "hom-integracao-paradigma-112-fzsmq",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-integracao-paradigma-31-std75",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracao-rh-externo": {
+    "name": "integracao-rh-externo",
+    "pods": [
+      {
+        "name": "hom-integracao-rh-externo-15-7c2tl",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-rh-extern-16-pb4nm",
+        "phase": "Running"
+      }
+    ]
+  },
+  "integracaorematricula": {
+    "name": "integracaorematricula",
+    "pods": [
+      {
+        "name": "int-remat-redis-dev-1-rkn5v",
+        "phase": "Running"
+      },
+      {
+        "name": "int-remat-redis-hom-1-zd5d4",
+        "phase": "Running"
+      },
+      {
+        "name": "int-remat-redis-prod-1-g62rh",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-rematricula-dev-33-djms4",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-rematricula-hom-12-fvl6w",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-rematricula-prod-1-vkj42",
+        "phase": "Running"
+      }
+    ]
+  },
+  "intranet": {
+    "name": "intranet",
+    "pods": [
+      {
+        "name": "hom-intranet-191-vnd9b",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-solr-intranet-10-tj776",
+        "phase": "Running"
+      },
+      {
+        "name": "intranet-7-m5wvq",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-intranet-5-d5tps",
+        "phase": "Running"
+      },
+      {
+        "name": "solr-intranet-4-9mzvz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "keptn-dynatrace": {
+    "name": "keptn-dynatrace",
+    "pods": [
+      {
+        "name": "dyna-service-3-xxz5d",
+        "phase": "Running"
+      }
+    ]
+  },
+  "kube-public": {
+    "name": "kube-public",
+    "pods": []
+  },
+  "kube-system": {
+    "name": "kube-system",
+    "pods": [
+      {
+        "name": "master-api-master-ocp01.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-api-master-ocp02.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-api-master-ocp03.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-controllers-master-ocp01.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-controllers-master-ocp02.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-controllers-master-ocp03.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-etcd-master-ocp01.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-etcd-master-ocp02.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "master-etcd-master-ocp03.sp.senac.br",
+        "phase": "Running"
+      },
+      {
+        "name": "tiller-deploy-5d8cbb976f-k44qp",
+        "phase": "Running"
+      }
+    ]
+  },
+  "leao-projeto-samples": {
+    "name": "leao-projeto-samples",
+    "pods": [
+      {
+        "name": "cloudcmd-5f6484c9c5-gw2kb",
+        "phase": "Running"
+      },
+      {
+        "name": "coldfusion-cacerts-10-5mttz",
+        "phase": "Running"
+      },
+      {
+        "name": "cyclonedx-10-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "cyclonedx-14-g2j45",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-1-82mjd",
+        "phase": "Running"
+      },
+      {
+        "name": "workflow-capd-78-8c9xf",
+        "phase": "Running"
+      }
+    ]
+  },
+  "licenciamento-software": {
+    "name": "licenciamento-software",
+    "pods": [
+      {
+        "name": "cloudcmd-2-9wt6j",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-8-gtb2h",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-licenciamento-software-12-5sp5j",
+        "phase": "Running"
+      }
+    ]
+  },
+  "licitacao": {
+    "name": "licitacao",
+    "pods": []
+  },
+  "lion-angular": {
+    "name": "lion-angular",
+    "pods": [
+      {
+        "name": "containerizingapps-1-s5b96",
+        "phase": "Running"
+      },
+      {
+        "name": "servicosfinanceiros-fronend-3-d4ggz",
+        "phase": "Running"
+      },
+      {
+        "name": "wspessoa-lion-10-x9jpb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "lion-git-env": {
+    "name": "lion-git-env",
+    "pods": [
+      {
+        "name": "sonarqube-1-lk5wz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "livraria-trail": {
+    "name": "livraria-trail",
+    "pods": [
+      {
+        "name": "livrodigital-3-rl7vv",
+        "phase": "Running"
+      },
+      {
+        "name": "mysql-livrodigital-3-klpgm",
+        "phase": "Running"
+      }
+    ]
+  },
+  "login-unico": {
+    "name": "login-unico",
+    "pods": [
+      {
+        "name": "cloudcmd-2-gpqdx",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-2zlrf",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-4pk2z",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-bwpjd",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-dj8xl",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-j7pcv",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-jm76j",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-lgg9s",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-nj6h8",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-s2kn6",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-hom-171-wqz45",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-homologacao-48-rtfpp",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-130-2rqrm",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-130-4h8jp",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-130-96b4p",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-130-h9bj9",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-130-vn7xg",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-wifi-20-9pxb5",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-wifi-20-bx8t9",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-wifi-20-drzz9",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-wifi-20-lk7cx",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-prod-wifi-20-pjvln",
+        "phase": "Running"
+      }
+    ]
+  },
+  "lotacao-de-pessoal": {
+    "name": "lotacao-de-pessoal",
+    "pods": [
+      {
+        "name": "hom-lotacao-de-pessoal-46-5w8z9",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-lotacao-de-pessoal-5-cj8th",
+        "phase": "Running"
+      }
+    ]
+  },
+  "management-infra": {
+    "name": "management-infra",
+    "pods": []
+  },
+  "matricula-corporativa": {
+    "name": "matricula-corporativa",
+    "pods": [
+      {
+        "name": "matricula-corporativa-hom-48-5l5tb",
+        "phase": "Running"
+      },
+      {
+        "name": "matricula-corporativa-prod-22-nmk4m",
+        "phase": "Running"
+      }
+    ]
+  },
+  "matricula-parceria-psg": {
+    "name": "matricula-parceria-psg",
+    "pods": [
+      {
+        "name": "cloudcmd-ftp-9-sptqv",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-mpg-psg-8-z8s5n",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-mpg-psg-9-hknmt",
+        "phase": "Running"
+      },
+      {
+        "name": "mpg-psg-6-f9jwk",
+        "phase": "Running"
+      },
+      {
+        "name": "mpg-psg-front-41-dgz4d",
+        "phase": "Running"
+      },
+      {
+        "name": "mpg-psg-front-dev-26-qf2l8",
+        "phase": "Running"
+      },
+      {
+        "name": "mpg-psg-front-hom-111-n84jx",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-mpg-psg-1-krkkq",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-mpg-psg-dev-1-bqrkk",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-mpg-psg-hom-1-t2729",
+        "phase": "Running"
+      }
+    ]
+  },
+  "matriz-de-atendimento": {
+    "name": "matriz-de-atendimento",
+    "pods": [
+      {
+        "name": "atendimento-back-dev-125-bw545",
+        "phase": "Running"
+      },
+      {
+        "name": "atendimento-back-dev-137-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "atendimento-back-dev-97-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "atendimento-front-dev-27-7xcd2",
+        "phase": "Running"
+      },
+      {
+        "name": "atendimento-front-dev-37-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "mongo-express-matriz-20-kp8dw",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-community-matriz-3-24lzn",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-back-dev-1-j5mx9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mensageriahom": {
+    "name": "mensageriahom",
+    "pods": [
+      {
+        "name": "kafka-hom-17-7sc7b",
+        "phase": "Running"
+      },
+      {
+        "name": "monitor-kafka-hom-13-zgzv6",
+        "phase": "Running"
+      },
+      {
+        "name": "zookeeper-hom-10-d8nwz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mensageriaprd": {
+    "name": "mensageriaprd",
+    "pods": [
+      {
+        "name": "kafka-prd-8-7rls7",
+        "phase": "Running"
+      },
+      {
+        "name": "monitor-kafka-prd-9-dsb76",
+        "phase": "Running"
+      },
+      {
+        "name": "zookeeper-prd-5-s2xh9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mochila": {
+    "name": "mochila",
+    "pods": [
+      {
+        "name": "dev-mochila-64-pcn62",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-mochila-389-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-mochila-402-lgljh",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-198-ddndg",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-198-zmv9f",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-api-integracao-28-b2hpd",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-api-integracao-28-jkqs4",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-integracao-17-wtxd9",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-matricula-emed-19-67g4j",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-matricula-emed-19-vbl29",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-rematricula-emed-11-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "mochila-rematricula-emed-27-4v9d4",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-rematricula-emed-27-cgbfr",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-rematricula-emed-27-jn4pk",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-rematricula-emed-27-zrp9b",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dev-mochila-1-lqs4p",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-hom-mochila-1-xz7gc",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-mochila-7-pzwbv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mongo-eds": {
+    "name": "mongo-eds",
+    "pods": [
+      {
+        "name": "mongo-express-37-bvsvr",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodbeds-38-j4fgc",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mongo-sync-dxp-hom": {
+    "name": "mongo-sync-dxp-hom",
+    "pods": [
+      {
+        "name": "mongo-express-dxp-hom-4-j64jh",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-dxp-hom-5-bnpmb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "mongodb-stack": {
+    "name": "mongodb-stack",
+    "pods": [
+      {
+        "name": "mongo-express-16-br9vp",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-community-server-7-mstrl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "monitor-coldfusion": {
+    "name": "monitor-coldfusion",
+    "pods": [
+      {
+        "name": "monitor-cf-29-qj5sg",
+        "phase": "Running"
+      }
+    ]
+  },
+  "monitoramento-coldfusion": {
+    "name": "monitoramento-coldfusion",
+    "pods": [
+      {
+        "name": "dmonitoramento-se-13-6tsmf",
+        "phase": "Running"
+      },
+      {
+        "name": "dmonitoramento-se-ms-6-fg5x6",
+        "phase": "Running"
+      },
+      {
+        "name": "hmonitoramento-se-11-hrjq5",
+        "phase": "Running"
+      },
+      {
+        "name": "hmonitoramento-se-ms-17-7k8hx",
+        "phase": "Running"
+      },
+      {
+        "name": "monitoramento-se-2-9sg8b",
+        "phase": "Running"
+      },
+      {
+        "name": "monitoramento-se-ms-37-c5mcj",
+        "phase": "Running"
+      }
+    ]
+  },
+  "movimentacao-porto": {
+    "name": "movimentacao-porto",
+    "pods": [
+      {
+        "name": "movi-porto-hom-100-hjf8b",
+        "phase": "Running"
+      },
+      {
+        "name": "movi-porto-prod-32-6jh7k",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-bu-atualiza-chave": {
+    "name": "ms-bu-atualiza-chave",
+    "pods": [
+      {
+        "name": "bu-api-atualiza-chave-4-4wwkh",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ms-bu-atualiza-chave-5-szptl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-bu-calcula-sexo": {
+    "name": "ms-bu-calcula-sexo",
+    "pods": [
+      {
+        "name": "bu-api-calcula-sexo-4-9m78q",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ms-bu-calcula-sexo-9-d7tvq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-bu-cidades": {
+    "name": "ms-bu-cidades",
+    "pods": [
+      {
+        "name": "hom-ms-bu-cidades-15-rjl4l",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ms-bu-cidades-25-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "ms-bu-cidades-10-wrnmh",
+        "phase": "Running"
+      },
+      {
+        "name": "ms-bu-cidades-8-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "ms-bu-consulta-bureau": {
+    "name": "ms-bu-consulta-bureau",
+    "pods": [
+      {
+        "name": "bu-api-consulta-bureau-32-rdw8x",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-consul-bureau-69-mc9jx",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-bu-deduplica-pessoa": {
+    "name": "ms-bu-deduplica-pessoa",
+    "pods": [
+      {
+        "name": "bu-api-deduplicar-pessoa-2-mcjn8",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-deduplicar-pessoa-4-t5zwj",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-bu-processo-seletivo": {
+    "name": "ms-bu-processo-seletivo",
+    "pods": [
+      {
+        "name": "hom-ms-bu-processo-seletivo-21-72d5t",
+        "phase": "Running"
+      },
+      {
+        "name": "ms-bu-processo-seletivo-4-222kv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-consulta-historicos": {
+    "name": "ms-consulta-historicos",
+    "pods": [
+      {
+        "name": "bu-historicos-cursos-3-8gzrr",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-historicos-cursos-6-xf9kt",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-normaliza-nome": {
+    "name": "ms-normaliza-nome",
+    "pods": [
+      {
+        "name": "bu-api-normaliza-nome-3-j8rg8",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-bu-api-normaliz-nome-5-vxsw7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-registrar-interacao": {
+    "name": "ms-registrar-interacao",
+    "pods": [
+      {
+        "name": "hom-ms-registrar-interacao-37-9dhqk",
+        "phase": "Running"
+      },
+      {
+        "name": "ms-registrar-interacao-11-bvd2m",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ms-whatsapp": {
+    "name": "ms-whatsapp",
+    "pods": [
+      {
+        "name": "hom-ms-whatsapp-5-g2jp6",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-ms-whatsapp-4-wlqzn",
+        "phase": "Running"
+      }
+    ]
+  },
+  "net-core-api-teste": {
+    "name": "net-core-api-teste",
+    "pods": [
+      {
+        "name": "api-teste-3scale-17-8n5bs",
+        "phase": "Running"
+      },
+      {
+        "name": "api-teste-3scale-17-bm465",
+        "phase": "Running"
+      },
+      {
+        "name": "api-teste-3scale-17-jlqck",
+        "phase": "Running"
+      }
+    ]
+  },
+  "netcore-api-baseunica": {
+    "name": "netcore-api-baseunica",
+    "pods": [
+      {
+        "name": "api-baseunica-ead-72-6kq72",
+        "phase": "Running"
+      },
+      {
+        "name": "api-baseunica-ead-72-6z45c",
+        "phase": "Running"
+      },
+      {
+        "name": "api-baseunica-ead-72-ldnb5",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-api-baseunica-ead-37-c9678",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift": {
+    "name": "openshift",
+    "pods": []
+  },
+  "openshift-console": {
+    "name": "openshift-console",
+    "pods": [
+      {
+        "name": "console-664df8fd58-452sk",
+        "phase": "Running"
+      },
+      {
+        "name": "console-664df8fd58-ggm2j",
+        "phase": "Running"
+      },
+      {
+        "name": "console-664df8fd58-xcd78",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift-infra": {
+    "name": "openshift-infra",
+    "pods": [
+      {
+        "name": "hawkular-cassandra-1-8s9z9",
+        "phase": "Running"
+      },
+      {
+        "name": "hawkular-metrics-nkj6q",
+        "phase": "Running"
+      },
+      {
+        "name": "heapster-kmkk7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift-logging": {
+    "name": "openshift-logging",
+    "pods": []
+  },
+  "openshift-monitoring": {
+    "name": "openshift-monitoring",
+    "pods": [
+      {
+        "name": "alertmanager-main-0",
+        "phase": "Running"
+      },
+      {
+        "name": "alertmanager-main-1",
+        "phase": "Running"
+      },
+      {
+        "name": "alertmanager-main-2",
+        "phase": "Running"
+      },
+      {
+        "name": "cluster-monitoring-operator-5d77cfbcb9-tfngh",
+        "phase": "Running"
+      },
+      {
+        "name": "grafana-5897b47b77-x9tt4",
+        "phase": "Running"
+      },
+      {
+        "name": "kube-state-metrics-5fc856997f-kqpxf",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-26txs",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-2kdl5",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-4wdsv",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-5j9d9",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-69mps",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-6ljgm",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-6z4jf",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-8th48",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-cl9lt",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-dspk9",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-dvtwm",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-hp5xq",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-j8zrm",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-jvckq",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-k6bq9",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-nkvv4",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-pvv9r",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-qsx5h",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-sn7k9",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-t2j65",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-t78l5",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-xztdb",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-z47s2",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-z69jz",
+        "phase": "Running"
+      },
+      {
+        "name": "node-exporter-zm62z",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-k8s-0",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-k8s-1",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-k8s-2",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-operator-74b67954bc-m4g8k",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift-node": {
+    "name": "openshift-node",
+    "pods": [
+      {
+        "name": "sync-22d2t",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-2dt28",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-2jmkk",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-5q8ff",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-6f4l4",
+        "phase": "Pending"
+      },
+      {
+        "name": "sync-6jzgb",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-6vszl",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-89gjp",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-9xdpl",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-c64bb",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-d75vx",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-gmzcj",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-jvb55",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-lhgtx",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-lj85b",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-m8sw5",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-nqzh5",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-q26pp",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-q55j7",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-rlwlk",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-rzzfx",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-t7fwl",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-t8qz2",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-vck7w",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-wkhb7",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-zzlgw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift-sdn": {
+    "name": "openshift-sdn",
+    "pods": [
+      {
+        "name": "ovs-4jt48",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-4xgcf",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-6rqsp",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-885jq",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-8htzv",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-8kbgc",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-9v6vv",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-b6lxf",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-blb59",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-d2vp9",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-fj4fx",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-fsb8n",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-gwxgn",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-hlb4m",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-hmmz6",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-htv5m",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-jmh5v",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-l9kmc",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-n4cqm",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-nqft7",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-p465b",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-pph99",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-qrllj",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-rp6ns",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-vkh4c",
+        "phase": "Running"
+      },
+      {
+        "name": "ovs-w9j2b",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-4wtbc",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-6gssg",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-6xbsl",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-8jhwz",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-965l7",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-9jtwm",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-cclxp",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-ctlpz",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-dmd5t",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-dsks6",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-f2qlq",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-gbpdk",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-gkrbd",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-h4d6b",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-j7wxz",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-jbvkn",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-l72p5",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-m9nwc",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-mdl4h",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-q84h5",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-qxffn",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-r5fhz",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-s5b2g",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-tq6x2",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-vcz9h",
+        "phase": "Running"
+      },
+      {
+        "name": "sdn-wnbln",
+        "phase": "Running"
+      }
+    ]
+  },
+  "openshift-web-console": {
+    "name": "openshift-web-console",
+    "pods": [
+      {
+        "name": "webconsole-78db985db6-c4xqr",
+        "phase": "Running"
+      },
+      {
+        "name": "webconsole-78db985db6-cb7l4",
+        "phase": "Running"
+      },
+      {
+        "name": "webconsole-78db985db6-lq5lj",
+        "phase": "Running"
+      }
+    ]
+  },
+  "operator-lifecycle-manager": {
+    "name": "operator-lifecycle-manager",
+    "pods": []
+  },
+  "painel-matricula-coldfusion": {
+    "name": "painel-matricula-coldfusion",
+    "pods": [
+      {
+        "name": "dpainel-matriculas-215-bkb2j",
+        "phase": "Running"
+      },
+      {
+        "name": "dpainel-matriculas-247-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dpainel-matriculas-248-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dpainel-matriculas-ms-275-zrqgc",
+        "phase": "Running"
+      },
+      {
+        "name": "hpainel-matriculas-220-wchs8",
+        "phase": "Running"
+      },
+      {
+        "name": "hpainel-matriculas-236-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hpainel-matriculas-237-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hpainel-matriculas-ms-272-ph6f5",
+        "phase": "Running"
+      },
+      {
+        "name": "painel-matriculas-25-ptrrr",
+        "phase": "Running"
+      },
+      {
+        "name": "painel-matriculas-ms-27-lns45",
+        "phase": "Running"
+      }
+    ]
+  },
+  "parceria-dash-psg": {
+    "name": "parceria-dash-psg",
+    "pods": [
+      {
+        "name": "dev-psg-front-end-dashboard-7-wxwgk",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-psg-front-end-dashboard-49-fkq2k",
+        "phase": "Running"
+      },
+      {
+        "name": "psg-front-end-dashboard-75-jhqrd",
+        "phase": "Running"
+      }
+    ]
+  },
+  "patrimonio": {
+    "name": "patrimonio",
+    "pods": [
+      {
+        "name": "hom-equipamentos-766-st44n",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-patrimonio-2498-lspz9",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-equipamentos-322-qzlmp",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-patrimonio-347-zqx2x",
+        "phase": "Running"
+      }
+    ]
+  },
+  "pesquisa-dados-cadastrais": {
+    "name": "pesquisa-dados-cadastrais",
+    "pods": [
+      {
+        "name": "hom-dados-cadastrais-23-z5jp4",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-dados-cadastrais-19-6lpfb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "pesquisa-de-repositorio": {
+    "name": "pesquisa-de-repositorio",
+    "pods": [
+      {
+        "name": "pesquisa-de-repositorio-46-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "ponto-web": {
+    "name": "ponto-web",
+    "pods": [
+      {
+        "name": "back-ponto-102-2thv2",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-102-9r5jd",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-102-ljv6f",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-102-tkqlq",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-102-vzh2f",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-hom-224-cv2bc",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-hom-relatorio-79-twzkt",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-72g7j",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-9ldsc",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-d6226",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-sjzd7",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-zwpdb",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-57-4tjqz",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-57-bz8tp",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-57-cd4l5",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-57-hkt4b",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-57-l7qzm",
+        "phase": "Running"
+      },
+      {
+        "name": "front-ponto-hom-131-rfdv8",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-api": {
+    "name": "portal-api",
+    "pods": [
+      {
+        "name": "hom-portal-api-5-mzclf",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-api-183-bmrvc",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-portal-api-1-tfspw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-dxp-editora-hom": {
+    "name": "portal-dxp-editora-hom",
+    "pods": [
+      {
+        "name": "cloudcmd-editora-7-j9hw7",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearch-0",
+        "phase": "Running"
+      },
+      {
+        "name": "hom2-integracao-sapiens-72-g4xkz",
+        "phase": "Running"
+      },
+      {
+        "name": "hom2-sync-dxp-191-j6x4b",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-410-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "liferay-dxp-447-zglzt",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-dxp-prod": {
+    "name": "portal-dxp-prod",
+    "pods": [
+      {
+        "name": "cloudcmd-4-zglw9",
+        "phase": "Running"
+      },
+      {
+        "name": "dxp-prod-192-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "elasticsearch-4-9tl4j",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearchdxpprod-0",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearchdxpprod-1",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearchdxpprod-2",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearchdxpprod-3",
+        "phase": "Running"
+      },
+      {
+        "name": "enterprisesearchdxpprod-4",
+        "phase": "Running"
+      },
+      {
+        "name": "filebeat-7-hhqgd",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-sapiens-28-k5g8n",
+        "phase": "Running"
+      },
+      {
+        "name": "kibana-2-9xvnr",
+        "phase": "Running"
+      },
+      {
+        "name": "kibana-operacional-kb-57c4975c7-zqp4d",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-596d5",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-6kq4f",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-8rtrj",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-f2fhr",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-pzklf",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-szzhh",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-tbctg",
+        "phase": "Running"
+      },
+      {
+        "name": "liferay-dxp-325-wgg28",
+        "phase": "Running"
+      },
+      {
+        "name": "sync-dxp-75-rftwq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-ead": {
+    "name": "portal-ead",
+    "pods": [
+      {
+        "name": "area-exclusiva-120-gz7gv",
+        "phase": "Running"
+      },
+      {
+        "name": "area-exclusiva-120-j45mq",
+        "phase": "Running"
+      },
+      {
+        "name": "area-exclusiva-120-wmtrw",
+        "phase": "Running"
+      },
+      {
+        "name": "arquivo-service-37-l2gsm",
+        "phase": "Running"
+      },
+      {
+        "name": "cloudcmd-portalead-40-jjlvj",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-documentos-18-kfrzk",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-ead-125-qrjrl",
+        "phase": "Running"
+      },
+      {
+        "name": "ecommerce-ead-31-ptjvr",
+        "phase": "Running"
+      },
+      {
+        "name": "ecommerce-ead-31-xbmx8",
+        "phase": "Running"
+      },
+      {
+        "name": "galeria-ead-87-h5856",
+        "phase": "Running"
+      },
+      {
+        "name": "login-unico-197-rl72m",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-ead-155-d2mmj",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-ead-155-dhsfk",
+        "phase": "Running"
+      },
+      {
+        "name": "proxy-solr-26-lvsd6",
+        "phase": "Running"
+      },
+      {
+        "name": "solr-31-7595f",
+        "phase": "Running"
+      },
+      {
+        "name": "usuario-unico-58-ww4z5",
+        "phase": "Running"
+      },
+      {
+        "name": "usuario-unico-61-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "portal-ead-homologacao": {
+    "name": "portal-ead-homologacao",
+    "pods": [
+      {
+        "name": "cloudcmd-portalead-hom-5-rpx26",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-area-exclusiva-ead-21-fb5dv",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-arquivo-service-9-c9kgv",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cms-docs-ead-44-w9bf7",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cms-ead-187-rdswv",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cms-ead-204-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-ead-galeria-27-g8v8w",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ecommerce-ead-17-zz29x",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-login-unico-ead-79-ddz4x",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-portal-ead-228-cr9zq",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-solr-18-8mngg",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuar-uni-ead-106-x8lkl",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuar-uni-ead-70-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "solr-proxy-ead-9-zrkdl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-middleware-arquitetura": {
+    "name": "portal-middleware-arquitetura",
+    "pods": []
+  },
+  "portal-senac-fila": {
+    "name": "portal-senac-fila",
+    "pods": [
+      {
+        "name": "kafka-backend-72-5h6jd",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-5k9fx",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-b6bfr",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-cbcxn",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-hczlp",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-k2wd2",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-nhv6h",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-q45p2",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-t7tqt",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-vqw29",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-2x9mv",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-66lt5",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-67gb4",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-9g4t5",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-bkrg2",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-k4pbt",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-sjscb",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-t8w9j",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-wthhb",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-balance-24-z8zrg",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-senac-rcd": {
+    "name": "portal-senac-rcd",
+    "pods": [
+      {
+        "name": "cloudcmd-hom-rcd-4-8vld5",
+        "phase": "Running"
+      },
+      {
+        "name": "cloudcmd-rcd-9-vmjw5",
+        "phase": "Running"
+      },
+      {
+        "name": "cms-rcd-389-mbplb",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cms-rcd-9-422tj",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-portal-frontend-10-gqspt",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-rcd-portal-admin-4-d2t79",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-portal-frontend-16-2z8fs",
+        "phase": "Running"
+      },
+      {
+        "name": "rcd-portal-admin-16-dw46n",
+        "phase": "Running"
+      }
+    ]
+  },
+  "portal-service": {
+    "name": "portal-service",
+    "pods": [
+      {
+        "name": "paginas-erro-4-w6rjk",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-c2t62",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-dndgm",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-hj8zw",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-qlxgq",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-w556g",
+        "phase": "Running"
+      },
+      {
+        "name": "portal-service-14-wdscf",
+        "phase": "Running"
+      }
+    ]
+  },
+  "pre-promocao": {
+    "name": "pre-promocao",
+    "pods": [
+      {
+        "name": "hom-prepromocao-99-l4f2v",
+        "phase": "Running"
+      },
+      {
+        "name": "pre-promocao-31-88jzt",
+        "phase": "Running"
+      },
+      {
+        "name": "pre-promocao-31-nbmpk",
+        "phase": "Running"
+      }
+    ]
+  },
+  "processo-seletivo-api": {
+    "name": "processo-seletivo-api",
+    "pods": [
+      {
+        "name": "dev-api-9-lw8rd",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-api-5-cfkcd",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-api-1-lk4jv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "processo-seletivo-coldfusion": {
+    "name": "processo-seletivo-coldfusion",
+    "pods": [
+      {
+        "name": "emed-inscricao-backend-dev-20-zlrn2",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-hom-200-qsct8",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-5pxpr",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-6dcjj",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-fkfkm",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-hjd6j",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-khtlb",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-backend-prod-62-rxrdm",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-frontend-dev-46-prqft",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-frontend-hom-74-tzksw",
+        "phase": "Running"
+      },
+      {
+        "name": "emed-inscricao-frontend-prod-15-w282z",
+        "phase": "Running"
+      },
+      {
+        "name": "inscricao-bolsa-hom-28-hs7vc",
+        "phase": "Running"
+      },
+      {
+        "name": "openshift-sandbox-12-24xcp",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-dev-1114-4hnzm",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-hom-1160-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "processo-seletivo-hom-1179-m664d",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-prod-116-24dvm",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-prod-116-ljzzm",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-prod-116-rgcnr",
+        "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-redis-4-6ldr9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "processo-seletivo-legado": {
+    "name": "processo-seletivo-legado",
+    "pods": [
+      {
+        "name": "dev-processo-seletivo-legado-1-vv8ft",
+        "phase": "Running"
+      }
+    ]
+  },
+  "producao-360": {
+    "name": "producao-360",
+    "pods": [
+      {
+        "name": "producao-360-backend-dev-42-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "producao-360-backend-dev-44-lqgk2",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-backend-hom-25-2phbq",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-backend-prod-5-k6dm4",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-frontend-dev-16-mbc7m",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-frontend-dev-17-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "producao-360-frontend-hom-15-qtp5q",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-frontend-hom-18-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "producao-360-frontend-prod-2-llct9",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-integracao-dev-3-69vz5",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-integracao-hom-3-fbs4q",
+        "phase": "Running"
+      },
+      {
+        "name": "producao-360-integracao-prod-13-pdt2b",
+        "phase": "Running"
+      }
+    ]
+  },
+  "projeto-api-gti": {
+    "name": "projeto-api-gti",
+    "pods": [
+      {
+        "name": "dev-api-gti-56-vdq5j",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-api-gti-40-bp876",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-api-gti-43-v8tl6",
+        "phase": "Running"
+      }
+    ]
+  },
+  "projeto-api-mac": {
+    "name": "projeto-api-mac",
+    "pods": [
+      {
+        "name": "api-mac-dev-8-7lxr8",
+        "phase": "Running"
+      },
+      {
+        "name": "api-mac-hom-4-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "api-mac-prod-2-chvqq",
+        "phase": "Running"
+      }
+    ]
+  },
+  "projeto-atendimento-eds": {
+    "name": "projeto-atendimento-eds",
+    "pods": [
+      {
+        "name": "dev-atendimento-eds-220-xk7qz",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-eds-front-99-txmg8",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-atendimento-eds-123-g4nrl",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-eds-front-55-gbhps",
+        "phase": "Running"
+      },
+      {
+        "name": "mongo-express-eds-3-5hqhm",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-community-eds-1-4x8t5",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-atendimento-eds-118-2nvpg",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-atendimento-eds-118-gw2h4",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-eds-front-56-pw942",
+        "phase": "Running"
+      }
+    ]
+  },
+  "projeto-composer": {
+    "name": "projeto-composer",
+    "pods": [
+      {
+        "name": "hom-auth-api-20-9z2v6",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-composer-16-rtwdg",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-storage-api-3-lg8hh",
+        "phase": "Running"
+      },
+      {
+        "name": "nginx-roteamentos-11-nst6m",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-auth-api-4-pb6vq",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-composer-3-fgplv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-storage-api-5-xdqnh",
+        "phase": "Running"
+      }
+    ]
+  },
+  "projeto-ficha-inscricao-psg": {
+    "name": "projeto-ficha-inscricao-psg",
+    "pods": [
+      {
+        "name": "ficha-psg-backend-dev-12-4g82t",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-backend-hom-100-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "ficha-psg-backend-hom-90-v6rlj",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-backend-prod-24-bw4rg",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-frontend-dev-28-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "ficha-psg-frontend-dev-28-kkfv9",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-frontend-hom-32-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "ficha-psg-frontend-hom-35-qmcx9",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-frontend-prod-17-p9w99",
+        "phase": "Running"
+      },
+      {
+        "name": "ficha-psg-frontend-prod-19-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "queue-area-exclusiva": {
+    "name": "queue-area-exclusiva",
+    "pods": [
+      {
+        "name": "app-v2-2-csmm4",
+        "phase": "Running"
+      },
+      {
+        "name": "queue-mdb-hom-8-q5hsb",
+        "phase": "Running"
+      },
+      {
+        "name": "queue-producer-hom-8-r92wx",
+        "phase": "Running"
+      }
+    ]
+  },
+  "recrutamento-api": {
+    "name": "recrutamento-api",
+    "pods": [
+      {
+        "name": "hom-recrutamento-api-32-9whmm",
+        "phase": "Running"
+      },
+      {
+        "name": "recrutamento-api-7-7qg9h",
+        "phase": "Running"
+      }
+    ]
+  },
+  "rede-fisica": {
+    "name": "rede-fisica",
+    "pods": [
+      {
+        "name": "relatorio-dn-19-79l7x",
+        "phase": "Running"
+      }
+    ]
+  },
+  "reembolso": {
+    "name": "reembolso",
+    "pods": []
+  },
+  "relatorios-orcamentarios": {
+    "name": "relatorios-orcamentarios",
+    "pods": [
+      {
+        "name": "prod-rel-orcamen-web-10-k6nvb",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-relatorios-orcamentarios-backend-26-n8q4p",
+        "phase": "Running"
+      },
+      {
+        "name": "relatorios-orcam-web-53-4lkjb",
+        "phase": "Running"
+      },
+      {
+        "name": "relatorios-orcamentarios-hom-46-5785n",
+        "phase": "Running"
+      },
+      {
+        "name": "relatorios-orcamentarios-hom-59-build",
+        "phase": "Failed"
+      }
+    ]
+  },
+  "relatorios-rhev": {
+    "name": "relatorios-rhev",
+    "pods": [
+      {
+        "name": "relatorio-rhev-hom-63-jdf6h",
+        "phase": "Running"
+      },
+      {
+        "name": "relatorio-rhev-prod-20-2stlz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "requisicao-pessoal": {
+    "name": "requisicao-pessoal",
+    "pods": [
+      {
+        "name": "cloudcmd-requisicao-3-dxzfk",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-reqpes-162-hprsc",
+        "phase": "Running"
+      },
+      {
+        "name": "requisicao-pessoal-131-h7zb9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "rescisao-contratual": {
+    "name": "rescisao-contratual",
+    "pods": [
+      {
+        "name": "app-rescisao-contratual-5-7bltw",
+        "phase": "Running"
+      },
+      {
+        "name": "cloudcmd-demissao-9-jwkct",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cloudcmd-demissao-3-nkp65",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-requisicao-demissao-44-pcfnc",
+        "phase": "Running"
+      },
+      {
+        "name": "requisicao-demissao-16-x9v8f",
+        "phase": "Running"
+      }
+    ]
+  },
+  "restore-test-redhat": {
+    "name": "restore-test-redhat",
+    "pods": []
+  },
+  "rh-senac": {
+    "name": "rh-senac",
+    "pods": [
+      {
+        "name": "hom-rh-senac-34-fnp6j",
+        "phase": "Running"
+      },
+      {
+        "name": "rh-senac-20-42wwv",
+        "phase": "Running"
+      }
+    ]
+  },
+  "rhevolution-integracao": {
+    "name": "rhevolution-integracao",
+    "pods": [
+      {
+        "name": "hom-rhev-api-113-ml9gq",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-rhev-api-130-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "rhev-api-124-rl6tx",
+        "phase": "Running"
+      }
+    ]
+  },
+  "rhevolutioncron": {
+    "name": "rhevolutioncron",
+    "pods": [
+      {
+        "name": "hom-rhevolutioncron-74-deploy",
+        "phase": "Failed"
+      },
+      {
+        "name": "rhevolutioncron-32-7tz8r",
+        "phase": "Running"
+      }
+    ]
+  },
+  "router-monitoring-haproxy": {
+    "name": "router-monitoring-haproxy",
+    "pods": [
+      {
+        "name": "grafana-1-9jchm",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-operator-79df5dd7db-jws2b",
+        "phase": "Running"
+      },
+      {
+        "name": "prometheus-prometheus-0",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sec-solucoes-educacionais-coorporativas": {
+    "name": "sec-solucoes-educacionais-coorporativas",
+    "pods": [
+      {
+        "name": "dev-sec-5-frrdq",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-sec-api-8-qmtzc",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-sec-cms-14-vmqxr",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-sec-nginx-8-pn4nj",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sec-7-2jsh4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sec-api-7-cnm6f",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sec-cms-14-bnjhm",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sec-nginx-6-8qgnv",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-sec-dev-1-fjpmd",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-sec-hom-1-7xntm",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-sec-prod-5-zqbnw",
+        "phase": "Running"
+      },
+      {
+        "name": "sec-5-4h89c",
+        "phase": "Running"
+      },
+      {
+        "name": "sec-api-10-l7pwk",
+        "phase": "Running"
+      },
+      {
+        "name": "sec-cms-9-2xrpg",
+        "phase": "Running"
+      },
+      {
+        "name": "sec-nginx-5-sv59d",
+        "phase": "Running"
+      }
+    ]
+  },
+  "selenium-hub": {
+    "name": "selenium-hub",
+    "pods": [
+      {
+        "name": "node-chrome-2-5qblp",
+        "phase": "Running"
+      },
+      {
+        "name": "node-firefox-4-pmwcz",
+        "phase": "Running"
+      },
+      {
+        "name": "selenium-hub-2-hnlfr",
+        "phase": "Running"
+      }
+    ]
+  },
+  "selo-gti": {
+    "name": "selo-gti",
+    "pods": [
+      {
+        "name": "dev-selo-gti-449-nhwk5",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-selo-gti-123-x2w4d",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-selo-gti-51-j767x",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dev-selo-gti-1-jh2wj",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-hom-selo-gti-2-n9ptx",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-prod-selo-gti-2-tmrzb",
+        "phase": "Running"
+      }
+    ]
+  },
+  "senac-carreiras": {
+    "name": "senac-carreiras",
+    "pods": [
+      {
+        "name": "dev-senac-carreiras-1816-4t2qs",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-senac-carreiras-1946-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "dev-senac-carreiras-1981-build",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-senac-carreiras-133-ndzf7",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-senac-carreiras-16-52zgd",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dev-senac-carreiras-2-vdcn8",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-hom-senac-carreiras-1-zfzrg",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-prod-senac-carreiras-1-wg6dc",
+        "phase": "Running"
+      }
+    ]
+  },
+  "servicos-financeiros": {
+    "name": "servicos-financeiros",
+    "pods": [
+      {
+        "name": "ged-ocr-backend-233-k7mwq",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-ged-ocr-backend-459-ntdzz",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-integracao-gef-34-sncs2",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-reembolso-backend-199-4fmx6",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-reembolso-backend-221-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-serv-financ-frontend-449-62nwp",
+        "phase": "Running"
+      },
+      {
+        "name": "mongo-express-serv-finan-5-dshkt",
+        "phase": "Running"
+      },
+      {
+        "name": "mongodb-community-svc-fi-9-cs4dv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-integracao-gef-23-jfbgn",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-reembolso-backend-57-9b792",
+        "phase": "Running"
+      },
+      {
+        "name": "serv-financ-prod-108-2ljtl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "simulador-contribuicao-ir-previsenac": {
+    "name": "simulador-contribuicao-ir-previsenac",
+    "pods": [
+      {
+        "name": "hom-contribuicao-ir-previsenac-76-lfl5r",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-contribuicao-ir-previsenac-19-hsrjt",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sincronismo-ad": {
+    "name": "sincronismo-ad",
+    "pods": [
+      {
+        "name": "hom-sincronismo-ad-29-v28vk",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-sincronismo-ad-7-2kksz",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sisnec": {
+    "name": "sisnec",
+    "pods": [
+      {
+        "name": "cloudcmd-sisnec-10-htgtz",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-cloudcmd-sisnec-4-lqwx8",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sisnec-122-n6mrv",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-sisnec-59-54fsk",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sistemas-administrativos-prod": {
+    "name": "sistemas-administrativos-prod",
+    "pods": [
+      {
+        "name": "adm-aposentados-55-9t4hd",
+        "phase": "Running"
+      },
+      {
+        "name": "adm-substituicao-37-2hpwn",
+        "phase": "Running"
+      },
+      {
+        "name": "agm-24-pbz9k",
+        "phase": "Running"
+      },
+      {
+        "name": "controle-crachas-12-mng2l",
+        "phase": "Running"
+      },
+      {
+        "name": "custom-rhev-94-j68ht",
+        "phase": "Running"
+      },
+      {
+        "name": "dashboard-monitoramento-44-w55gx",
+        "phase": "Running"
+      },
+      {
+        "name": "formulario-prestador-97-r2d2s",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-adm-aposentados-17-qgw7x",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-custom-rhev-109-tmssn",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-custom-rhev-122-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "hom-formulario-prestador-75-dlfs6",
+        "phase": "Running"
+      },
+      {
+        "name": "integracao-gef-172-bpfph",
+        "phase": "Running"
+      },
+      {
+        "name": "plataforma-gep-69-qqv47",
+        "phase": "Running"
+      },
+      {
+        "name": "ponto-prestador-business-27-ftft5",
+        "phase": "Running"
+      },
+      {
+        "name": "recisao-contratual-42-2qtk9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sistemas-de-idiomas": {
+    "name": "sistemas-de-idiomas",
+    "pods": [
+      {
+        "name": "hom-sai-12-657zb",
+        "phase": "Running"
+      },
+      {
+        "name": "sai-91-qmj8w",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sistemas-sic": {
+    "name": "sistemas-sic",
+    "pods": [
+      {
+        "name": "hom-sic-8-q9jvs",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-sic-26-xwf6z",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sms-senac": {
+    "name": "sms-senac",
+    "pods": [
+      {
+        "name": "dev-sms-senac-509-tj7x4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-sms-senac-33-27pvw",
+        "phase": "Running"
+      },
+      {
+        "name": "novo-sms-senac-44-lhgbz",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-dev-sms-2-dm9ds",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-hom-senac-1-wsrvj",
+        "phase": "Running"
+      },
+      {
+        "name": "redis-sms-senac-2-wxtt7",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sonar": {
+    "name": "sonar",
+    "pods": [
+      {
+        "name": "postgres-sonar-updated-4-c2hx2",
+        "phase": "Running"
+      },
+      {
+        "name": "sonarpostgres-11-4vblw",
+        "phase": "Running"
+      },
+      {
+        "name": "sonarqube-25-zgvv2",
+        "phase": "Running"
+      },
+      {
+        "name": "sonarqube-93-8-p24lw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "squad-inovacao-poc-image": {
+    "name": "squad-inovacao-poc-image",
+    "pods": [
+      {
+        "name": "redis-poc-image-2-qdjcq",
+        "phase": "Running"
+      },
+      {
+        "name": "squad-poc-image-16-pr9gt",
+        "phase": "Running"
+      }
+    ]
+  },
+  "squad-inovacao-sandbox": {
+    "name": "squad-inovacao-sandbox",
+    "pods": [
+      {
+        "name": "prod-sandbox-1-w9vml",
+        "phase": "Running"
+      }
+    ]
+  },
+  "squad-invovacao-caso-de-uso": {
+    "name": "squad-invovacao-caso-de-uso",
+    "pods": [
+      {
+        "name": "inovacao-caso-de-uso-23-gnkqp",
+        "phase": "Running"
+      },
+      {
+        "name": "inovacao-casodeuso-4-b4pzs",
+        "phase": "Running"
+      }
+    ]
+  },
+  "sso-76": {
+    "name": "sso-76",
+    "pods": [
+      {
+        "name": "cloudcmd-9-nvlc8",
+        "phase": "Running"
+      },
+      {
+        "name": "job-scheduler-rh-sso-65-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "job-scheduler-rh-sso-68-cq885",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-senac-80-klvgh",
+        "phase": "Running"
+      },
+      {
+        "name": "sso-senac-postgresql-8-4mw2l",
+        "phase": "Running"
+      }
+    ]
+  },
+  "teste-blog-grande-hotel-eventos": {
+    "name": "teste-blog-grande-hotel-eventos",
+    "pods": [
+      {
+        "name": "cloudcmd-8-rbn8p",
+        "phase": "Running"
+      },
+      {
+        "name": "grande-hotel-eventos-23-vbgmq",
+        "phase": "Running"
+      },
+      {
+        "name": "mysql-grandehoteleventos-4-jdxht",
+        "phase": "Running"
+      }
+    ]
+  },
+  "teste-fernando": {
+    "name": "teste-fernando",
+    "pods": []
+  },
+  "testlink": {
+    "name": "testlink",
+    "pods": [
+      {
+        "name": "mariadb-6-qmd7q",
+        "phase": "Running"
+      },
+      {
+        "name": "testlink-34-hbjzl",
+        "phase": "Running"
+      }
+    ]
+  },
+  "usuario-unico": {
+    "name": "usuario-unico",
+    "pods": [
+      {
+        "name": "hom-usuario-unico-sp-81-5zjst",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuario-unico-sp-81-c5jh4",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuario-unico-sp-81-nbvnr",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuario-unico-sp-81-s9rss",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-usuario-unico-sp-81-tc5tp",
+        "phase": "Running"
+      },
+      {
+        "name": "usuario-unico-sp-30-ksp8s",
+        "phase": "Running"
+      }
+    ]
+  },
+  "valida-recurso": {
+    "name": "valida-recurso",
+    "pods": [
+      {
+        "name": "dev-valida-recurso-80-r4h5w",
+        "phase": "Running"
+      }
+    ]
+  },
+  "webservicecoldfusion2018": {
+    "name": "webservicecoldfusion2018",
+    "pods": [
+      {
+        "name": "webservice-dev-7-pz94d",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-botao-bolsas": {
+    "name": "ws-botao-bolsas",
+    "pods": [
+      {
+        "name": "hom-botao-bolsas-8-qfd78",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-botao-bolsas-9-dptfg",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-inadimplencia": {
+    "name": "ws-inadimplencia",
+    "pods": [
+      {
+        "name": "hom-ws-inadimplencia-7-52qlj",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-inadimplencia-9-wfjc8",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-integracao-cursos": {
+    "name": "ws-integracao-cursos",
+    "pods": [
+      {
+        "name": "hom-ws-integracao-cursos-4-r5kvm",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-integracao-cursos-4-86p8g",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-integracao-teams": {
+    "name": "ws-integracao-teams",
+    "pods": [
+      {
+        "name": "hom-ws-integracao-teams-5-77bsw",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-integracao-teams-4-2kdkw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-pessoa": {
+    "name": "ws-pessoa",
+    "pods": [
+      {
+        "name": "ws-pessoa-ge-dev-17-gj56s",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-hom-156-42kpm",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-hom-192-build",
+        "phase": "Failed"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-2bt79",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-4k9bw",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-7crsk",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-cbln2",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-gzhj6",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-hjght",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-jkcbc",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-mlq9v",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-rjqwq",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-pessoa-ge-prod-81-zwfn6",
+        "phase": "Running"
+      }
+    ]
+  },
+  "ws-soc-funcionario-cliente": {
+    "name": "ws-soc-funcionario-cliente",
+    "pods": [
+      {
+        "name": "hom-ws-soc-funcionario-cliente-104-4zpqf",
+        "phase": "Running"
+      },
+      {
+        "name": "ws-soc-funcionario-cliente-16-kjcgs",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-boleto": {
+    "name": "wse-boleto",
+    "pods": [
+      {
+        "name": "dev-wse-boleto-9-g6sf2",
+        "phase": "Running"
+      },
+      {
+        "name": "dev-wse-boleto-ca-2-qcx8g",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-boleto-2-6rr6q",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-boleto-ca-4-gkfzq",
+        "phase": "Running"
+      },
+      {
+        "name": "wse-boleto-2-hjzwc",
+        "phase": "Running"
+      },
+      {
+        "name": "wse-boleto-ca-4-j7q7m",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-bolsas": {
+    "name": "wse-bolsas",
+    "pods": [
+      {
+        "name": "dev-wse-bolsas-22-nvvmr",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-bolsas-27-cs4ln",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-drmxt",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-f664g",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-lkslr",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-t2dnf",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-wllkw",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-cartao": {
+    "name": "wse-cartao",
+    "pods": [
+      {
+        "name": "dev-wse-cartao-17-h26hc",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-cartao-9-dkkxn",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cartao-6-88qkc",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-cursos": {
+    "name": "wse-cursos",
+    "pods": [
+      {
+        "name": "dev-wse-cursos-23-m89pg",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-cursos-55-m28zw",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-cursos-55-plc7h",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-4qjfs",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-8rl79",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-bhzhk",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-bm67j",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-f4rwd",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-hdn6d",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-hvnz6",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-jbhgs",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-lbtnf",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-r2bm9",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-sms": {
+    "name": "wse-sms",
+    "pods": [
+      {
+        "name": "dev-wse-sms-1-z6bc7",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-sms-1-dwl5b",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-sms-1-bq66x",
+        "phase": "Running"
+      }
+    ]
+  },
+  "wse-teams": {
+    "name": "wse-teams",
+    "pods": [
+      {
+        "name": "dev-wse-teams-1-mz69m",
+        "phase": "Running"
+      },
+      {
+        "name": "hom-wse-teams-2-gvm7r",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-teams-1-hc4sp",
+        "phase": "Running"
+      }
+    ]
+  }
+}
