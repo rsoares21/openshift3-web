@@ -653,19 +653,11 @@
         "phase": "Running"
       },
       {
-        "name": "catalago-api-81-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "catalago-front-52-ttgvh",
+        "name": "catalago-front-53-4f8tc",
         "phase": "Running"
       },
       {
-        "name": "catalago-front-72-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "catalago-front-73-build",
+        "name": "catalago-front-74-build",
         "phase": "Succeeded"
       },
       {
@@ -677,15 +669,7 @@
         "phase": "Running"
       },
       {
-        "name": "dev-catalago-api-134-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-api-135-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-front-199-qfsgk",
+        "name": "dev-catalago-front-203-lz7qw",
         "phase": "Running"
       },
       {
@@ -701,23 +685,19 @@
         "phase": "Failed"
       },
       {
-        "name": "dev-catalago-front-455-build",
+        "name": "dev-catalago-front-460-build",
         "phase": "Succeeded"
       },
       {
-        "name": "dev-catalago-front-456-build",
+        "name": "dev-catalago-front-461-build",
         "phase": "Succeeded"
       },
       {
-        "name": "dev-catalago-front-457-build",
+        "name": "dev-catalago-front-462-build",
         "phase": "Succeeded"
       },
       {
-        "name": "dev-catalago-front-458-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-front-459-build",
+        "name": "dev-catalago-front-463-build",
         "phase": "Running"
       },
       {
@@ -733,19 +713,11 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-catalago-api-89-build",
+        "name": "hom-catalago-front-104-build",
         "phase": "Succeeded"
       },
       {
-        "name": "hom-catalago-front-102-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hom-catalago-front-103-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hom-catalago-front-54-q8scn",
+        "name": "hom-catalago-front-55-djvc9",
         "phase": "Running"
       },
       {
@@ -780,14 +752,6 @@
       {
         "name": "admin-central-docs-ms-111-qtrl8",
         "phase": "Running"
-      },
-      {
-        "name": "admin-central-docs-ms-113-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "admin-central-docs-ms-114-build",
-        "phase": "Succeeded"
       },
       {
         "name": "central-docs-60-f8cvr",
@@ -1439,11 +1403,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-sigap-277-kcgkx",
-        "phase": "Running"
-      },
-      {
-        "name": "hom-sigap-367-build",
+        "name": "hom-sigap-278-xlnzt",
         "phase": "Running"
       },
       {
@@ -3204,10 +3164,6 @@
         "phase": "Running"
       },
       {
-        "name": "hom2-sync-dxp-184-build",
-        "phase": "Succeeded"
-      },
-      {
         "name": "hom2-sync-dxp-192-bwsjz",
         "phase": "Running"
       },
@@ -3753,10 +3709,6 @@
       {
         "name": "producao-360-frontend-dev-17-s7ndb",
         "phase": "Running"
-      },
-      {
-        "name": "producao-360-frontend-dev-18-build",
-        "phase": "Succeeded"
       },
       {
         "name": "producao-360-frontend-hom-15-qtp5q",
@@ -4708,10 +4660,6 @@
       {
         "name": "ws-pessoa-ge-hom-192-build",
         "phase": "Failed"
-      },
-      {
-        "name": "ws-pessoa-ge-hom-196-build",
-        "phase": "Succeeded"
       },
       {
         "name": "ws-pessoa-ge-prod-81-2bt79",

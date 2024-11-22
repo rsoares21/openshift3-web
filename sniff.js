@@ -1,12 +1,22 @@
+const express = require('express');
 const fetch = require('node-fetch');
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
+const http = require('http');
+const WebSocket = require('ws');
 
 let chalk;
 (async () => {
     chalk = (await import('chalk')).default;
 })();
+
+const app = express();
+app.use(express.static(path.join(__dirname, 'public'))); // Serve static files from the 'public' directory
+
+const server = http.createServer(app);
+const wss = new WebSocket.Server({ server });
+const port = 3000;
 
 const myHeaders = new fetch.Headers();
 myHeaders.append("accept", "application/json, text/plain, */*");
@@ -35,6 +45,13 @@ const requestOptions = {
 };
 
 const podStates = {};
+
+wss.on('connection', (ws) => {
+    console.log('Client connected');
+    ws.on('close', () => {
+        console.log('Client disconnected');
+    });
+});
 
 async function listPods(projectName, isFirstRead = false) {
     try {
@@ -69,6 +86,18 @@ async function listPods(projectName, isFirstRead = false) {
                 console.log(chalk.hex('#FF00FF')(`Pod ${pod.name} in project ${projectName} changed phase from ${prevState ? prevState.phase : 'unknown'} to ${pod.phase}`));
                 podStates[projectName][pod.name] = pod;
                 stateChanged = true;
+
+                // Send pod state change to WebSocket clients
+                wss.clients.forEach(client => {
+                    if (client.readyState === WebSocket.OPEN) {
+                        client.send(JSON.stringify({
+                            projectName,
+                            podName: pod.name,
+                            previousPhase: prevState ? prevState.phase : 'unknown',
+                            currentPhase: pod.phase
+                        }));
+                    }
+                });
             }
         });
 
@@ -144,9 +173,37 @@ async function listProjects() {
         };
 
         monitorProjectsPeriodically(); // Start the monitoring process
+
+        return projectData;
     } catch (error) {
         console.error('Fetch error:', error);
+        return {};
     }
 }
 
-listProjects();
+app.get('/projects', async (req, res) => {
+    const projects = await listProjects();
+    res.json(projects);
+});
+
+app.get('/projects/:projectName/pods', async (req, res) => {
+    const projectName = req.params.projectName;
+    const pods = await listPods(projectName);
+    res.json(pods);
+});
+
+server.listen(port, async () => {
+    console.log(`API listening at http://localhost:${port}`);
+
+    // Start the monitoring process
+    const projectData = await listProjects();
+    const projectsToMonitor = Object.keys(projectData);
+
+    const monitorProjectsPeriodically = async () => {
+        await monitorInterval(projectsToMonitor, projectData);
+        process.stdout.write('⏸'); // Print "⏸" for the pause
+        setTimeout(monitorProjectsPeriodically, 10000); // Pause for 10 seconds after all projects are monitored
+    };
+
+    monitorProjectsPeriodically(); // Start the monitoring process
+});
