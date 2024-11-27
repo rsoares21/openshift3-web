@@ -7,15 +7,11 @@
         "phase": "Running"
       },
       {
-        "name": "dev-acod-odonto-618-ht95d",
+        "name": "dev-acod-odonto-619-j8r5r",
         "phase": "Running"
       },
       {
-        "name": "dev-acod-odonto-674-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-acod-odonto-675-build",
+        "name": "dev-acod-odonto-676-build",
         "phase": "Succeeded"
       },
       {
@@ -31,24 +27,12 @@
         "phase": "Running"
       },
       {
-        "name": "hom-acod-odonto-473-hsprw",
+        "name": "hom-acod-odonto-474-9h8gj",
         "phase": "Running"
       },
       {
         "name": "hom-acod-odonto-568-build",
         "phase": "Failed"
-      },
-      {
-        "name": "hom-acod-odonto-569-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hom-acod-odonto-570-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hom-acod-odonto-571-build",
-        "phase": "Succeeded"
       },
       {
         "name": "hom-acod-odonto-cloudcmd-2-tn44n",
@@ -146,11 +130,11 @@
         "phase": "Running"
       },
       {
-        "name": "dev-agend-ens-cms-8-vvrnz",
+        "name": "dev-agend-ens-cms-8-ghrdh",
         "phase": "Running"
       },
       {
-        "name": "dev-agend-ens-front-12-968tk",
+        "name": "dev-agend-ens-front-12-jnrx4",
         "phase": "Running"
       },
       {
@@ -718,7 +702,7 @@
         "phase": "Running"
       },
       {
-        "name": "central-docs-60-f8cvr",
+        "name": "central-docs-60-bfcfj",
         "phase": "Running"
       },
       {
@@ -746,11 +730,11 @@
         "phase": "Running"
       },
       {
-        "name": "central-docs-ms-196-drztg",
+        "name": "central-docs-ms-196-f5j5m",
         "phase": "Running"
       },
       {
-        "name": "central-docs-ms-196-f5j5m",
+        "name": "central-docs-ms-196-rwcbm",
         "phase": "Running"
       },
       {
@@ -778,12 +762,16 @@
         "phase": "Failed"
       },
       {
-        "name": "hcentral-docs-ms-457-hrf88",
+        "name": "hcentral-docs-ms-458-m9grl",
         "phase": "Running"
       },
       {
         "name": "hcentral-docs-ms-460-build",
         "phase": "Failed"
+      },
+      {
+        "name": "hcentral-docs-ms-499-build",
+        "phase": "Succeeded"
       },
       {
         "name": "hupload-central-docs-53-kswt8",
@@ -3087,20 +3075,12 @@
         "phase": "Running"
       },
       {
-        "name": "dxp-407-build",
-        "phase": "Succeeded"
-      },
-      {
         "name": "enterprisesearch-0",
         "phase": "Running"
       },
       {
         "name": "hom2-integracao-sapiens-72-v8z5x",
         "phase": "Running"
-      },
-      {
-        "name": "hom2-sync-dxp-186-build",
-        "phase": "Succeeded"
       },
       {
         "name": "hom2-sync-dxp-194-n5xm8",
@@ -3594,10 +3574,6 @@
       {
         "name": "processo-seletivo-prod-118-mrl9t",
         "phase": "Running"
-      },
-      {
-        "name": "processo-seletivo-prod-125-build",
-        "phase": "Succeeded"
       },
       {
         "name": "processo-seletivo-redis-4-6ldr9",
@@ -4108,10 +4084,6 @@
       {
         "name": "dev-senac-carreiras-1946-build",
         "phase": "Failed"
-      },
-      {
-        "name": "dev-senac-carreiras-2005-build",
-        "phase": "Succeeded"
       },
       {
         "name": "hom-senac-carreiras-137-jzwvz",

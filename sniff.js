@@ -108,11 +108,11 @@ async function listPods(projectName, isFirstRead = false) {
         } else if (!stateChanged) {
             const firstLetter = projectName.charAt(0).toLowerCase();
             if (responseTime < 120) {
-                process.stdout.write(chalk.greenBright(firstLetter));
+                //process.stdout.write(chalk.greenBright(firstLetter));
             } else if (responseTime < 150) {
-                process.stdout.write(chalk.hex('#FFA500')(firstLetter)); // Orange color
+                //process.stdout.write(chalk.hex('#FFA500')(firstLetter)); // Orange color
             } else {
-                process.stdout.write(chalk.hex('#FF00FF')(firstLetter));
+                //process.stdout.write(chalk.hex('#FF00FF')(firstLetter));
             }
         }
 
