@@ -7,15 +7,19 @@
         "phase": "Running"
       },
       {
-        "name": "dev-acod-odonto-600-rwspg",
+        "name": "dev-acod-odonto-618-ht95d",
         "phase": "Running"
       },
       {
-        "name": "dev-acod-odonto-610-build",
-        "phase": "Failed"
+        "name": "dev-acod-odonto-674-build",
+        "phase": "Succeeded"
       },
       {
-        "name": "dev-acod-odonto-front-249-pb48k",
+        "name": "dev-acod-odonto-675-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "dev-acod-odonto-front-253-c8hxc",
         "phase": "Running"
       },
       {
@@ -23,28 +27,40 @@
         "phase": "Running"
       },
       {
-        "name": "dev-odont-cloudcmd-2-5l7mw",
+        "name": "dev-odont-cloudcmd-2-trn6c",
         "phase": "Running"
       },
       {
-        "name": "hom-acod-odonto-447-zrlk5",
+        "name": "hom-acod-odonto-473-hsprw",
         "phase": "Running"
       },
       {
-        "name": "hom-acod-odonto-501-build",
+        "name": "hom-acod-odonto-568-build",
         "phase": "Failed"
+      },
+      {
+        "name": "hom-acod-odonto-569-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-acod-odonto-570-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-acod-odonto-571-build",
+        "phase": "Succeeded"
       },
       {
         "name": "hom-acod-odonto-cloudcmd-2-tn44n",
         "phase": "Running"
       },
       {
-        "name": "hom-acod-odonto-front-242-s6kz5",
-        "phase": "Running"
-      },
-      {
         "name": "hom-acod-odonto-front-245-build",
         "phase": "Failed"
+      },
+      {
+        "name": "hom-acod-odonto-front-246-45z9v",
+        "phase": "Running"
       },
       {
         "name": "hom-acod-odonto-redis-46-4dnsk",
@@ -55,11 +71,11 @@
         "phase": "Running"
       },
       {
-        "name": "prod-acod-odonto-71-qd9zt",
+        "name": "prod-acod-odonto-71-ltxmw",
         "phase": "Running"
       },
       {
-        "name": "prod-acod-odonto-front-54-5ht7k",
+        "name": "prod-acod-odonto-front-54-z26pk",
         "phase": "Running"
       },
       {
@@ -97,16 +113,8 @@
         "phase": "Running"
       },
       {
-        "name": "admti-86-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "admti-service-42-crdld",
+        "name": "admti-service-42-9mk5w",
         "phase": "Running"
-      },
-      {
-        "name": "hom-admti-50-build",
-        "phase": "Failed"
       },
       {
         "name": "hom-admti-51-8rsxr",
@@ -130,7 +138,7 @@
         "phase": "Running"
       },
       {
-        "name": "agend-ens-front-13-cp6mv",
+        "name": "agend-ens-front-13-htrvh",
         "phase": "Running"
       },
       {
@@ -154,7 +162,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-agend-ens-front-8-rh74t",
+        "name": "hom-agend-ens-front-8-6fh64",
         "phase": "Running"
       },
       {
@@ -170,7 +178,7 @@
         "phase": "Running"
       },
       {
-        "name": "redis-agend-edu-dev-3-fcxh6",
+        "name": "redis-agend-edu-dev-3-srtzq",
         "phase": "Running"
       },
       {
@@ -237,7 +245,7 @@
         "phase": "Running"
       },
       {
-        "name": "apicast-staging-7-jxn55",
+        "name": "apicast-staging-7-5mwhb",
         "phase": "Running"
       },
       {
@@ -249,7 +257,7 @@
         "phase": "Running"
       },
       {
-        "name": "backend-redis-10-nppjr",
+        "name": "backend-redis-10-kb9f9",
         "phase": "Running"
       },
       {
@@ -315,7 +323,7 @@
     "name": "aplicacao-ged-pessoas",
     "pods": [
       {
-        "name": "hom-gedpessoas-backend-54-mc6hr",
+        "name": "hom-gedpessoas-backend-54-sl8wz",
         "phase": "Running"
       },
       {
@@ -327,11 +335,11 @@
         "phase": "Running"
       },
       {
-        "name": "prod-gedpessoas-backend-11-gbhv6",
+        "name": "prod-gedpessoas-backend-11-9jv8d",
         "phase": "Running"
       },
       {
-        "name": "prod-gedpessoas-frontend-69-6zrg7",
+        "name": "prod-gedpessoas-frontend-70-kdtjq",
         "phase": "Running"
       }
     ]
@@ -340,11 +348,11 @@
     "name": "app-autenticacao",
     "pods": [
       {
-        "name": "app-autenticacao-44-9wkl4",
+        "name": "app-autenticacao-44-bvwt6",
         "phase": "Running"
       },
       {
-        "name": "app-autenticacao-44-bmllf",
+        "name": "app-autenticacao-44-pjvwd",
         "phase": "Running"
       },
       {
@@ -374,7 +382,7 @@
         "phase": "Running"
       },
       {
-        "name": "app-senac-prod-99-ztpss",
+        "name": "app-senac-prod-100-wq6pl",
         "phase": "Running"
       }
     ]
@@ -429,10 +437,6 @@
         "phase": "Running"
       },
       {
-        "name": "hom-area-exclusiva-124-deploy",
-        "phase": "Failed"
-      },
-      {
         "name": "hom-area-exclusiva-133-57fs5",
         "phase": "Running"
       },
@@ -441,19 +445,19 @@
         "phase": "Running"
       },
       {
+        "name": "hom-area-exclusiva-133-6p4l6",
+        "phase": "Running"
+      },
+      {
         "name": "hom-area-exclusiva-133-mbpgj",
         "phase": "Running"
       },
       {
-        "name": "hom-area-exclusiva-133-mhs74",
+        "name": "hom-area-exclusiva-133-sv6nn",
         "phase": "Running"
       },
       {
-        "name": "hom-area-exclusiva-133-xtbh7",
-        "phase": "Running"
-      },
-      {
-        "name": "prod-area-exclusiva-24-m6tj6",
+        "name": "prod-area-exclusiva-24-8kqsr",
         "phase": "Running"
       }
     ]
@@ -483,7 +487,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-bu-buscar-depara-19-ffwfr",
+        "name": "hom-bu-buscar-depara-19-zswbz",
         "phase": "Running"
       }
     ]
@@ -496,7 +500,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-bu-buscar-pessoa-22-fwgpq",
+        "name": "hom-bu-buscar-pessoa-22-4nlff",
         "phase": "Running"
       }
     ]
@@ -531,7 +535,7 @@
     "name": "base-unica-api-pessoa",
     "pods": [
       {
-        "name": "bu-api-pessoa-10-cwsc2",
+        "name": "bu-api-pessoa-10-hm2cx",
         "phase": "Running"
       },
       {
@@ -574,19 +578,19 @@
     "name": "blog-eventos",
     "pods": [
       {
-        "name": "blog-eventos-66-2xvzf",
-        "phase": "Running"
-      },
-      {
         "name": "blog-eventos-66-cs9tc",
         "phase": "Running"
       },
       {
-        "name": "blog-eventos-66-q8jl9",
+        "name": "blog-eventos-66-nn49m",
         "phase": "Running"
       },
       {
-        "name": "blog-eventos-66-qwfhr",
+        "name": "blog-eventos-66-pzqqs",
+        "phase": "Running"
+      },
+      {
+        "name": "blog-eventos-66-q8jl9",
         "phase": "Running"
       },
       {
@@ -649,63 +653,31 @@
         "phase": "Failed"
       },
       {
-        "name": "catalago-api-70-dbcw4",
+        "name": "catalago-api-72-f8p8g",
         "phase": "Running"
       },
       {
-        "name": "catalago-front-53-4f8tc",
+        "name": "catalago-front-56-456j9",
         "phase": "Running"
-      },
-      {
-        "name": "catalago-front-74-build",
-        "phase": "Succeeded"
       },
       {
         "name": "dev-catalago-api-110-build",
         "phase": "Failed"
       },
       {
-        "name": "dev-catalago-api-116-brzwc",
+        "name": "dev-catalago-api-119-r7d4b",
         "phase": "Running"
       },
       {
-        "name": "dev-catalago-front-203-lz7qw",
+        "name": "dev-catalago-front-234-nd7jf",
         "phase": "Running"
-      },
-      {
-        "name": "dev-catalago-front-409-build",
-        "phase": "Failed"
       },
       {
         "name": "dev-catalago-front-453-build",
         "phase": "Failed"
       },
       {
-        "name": "dev-catalago-front-454-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "dev-catalago-front-460-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-front-461-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-front-462-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "dev-catalago-front-463-build",
-        "phase": "Running"
-      },
-      {
-        "name": "hom-catalago-api-65-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "hom-catalago-api-75-ssnpw",
+        "name": "hom-catalago-api-77-4llq6",
         "phase": "Running"
       },
       {
@@ -713,19 +685,11 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-catalago-front-104-build",
-        "phase": "Succeeded"
-      },
-      {
-        "name": "hom-catalago-front-55-djvc9",
+        "name": "hom-catalago-front-61-2f7j5",
         "phase": "Running"
       },
       {
-        "name": "hom-catalago-front-91-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "mongo-express-3-fvrht",
+        "name": "mongo-express-3-975dz",
         "phase": "Running"
       },
       {
@@ -742,15 +706,15 @@
         "phase": "Failed"
       },
       {
-        "name": "admin-central-docs-ms-111-7nm5q",
+        "name": "admin-central-docs-ms-117-f8l4d",
         "phase": "Running"
       },
       {
-        "name": "admin-central-docs-ms-111-d26cv",
+        "name": "admin-central-docs-ms-117-psq9p",
         "phase": "Running"
       },
       {
-        "name": "admin-central-docs-ms-111-qtrl8",
+        "name": "admin-central-docs-ms-117-zmw5w",
         "phase": "Running"
       },
       {
@@ -770,19 +734,19 @@
         "phase": "Running"
       },
       {
-        "name": "central-docs-ms-196-2kbrh",
-        "phase": "Running"
-      },
-      {
         "name": "central-docs-ms-196-2mr4z",
         "phase": "Running"
       },
       {
-        "name": "central-docs-ms-196-52j96",
+        "name": "central-docs-ms-196-8gfdq",
         "phase": "Running"
       },
       {
-        "name": "central-docs-ms-196-8gfdq",
+        "name": "central-docs-ms-196-b89jv",
+        "phase": "Running"
+      },
+      {
+        "name": "central-docs-ms-196-drztg",
         "phase": "Running"
       },
       {
@@ -794,35 +758,27 @@
         "phase": "Running"
       },
       {
-        "name": "dcentral-docs-215-lnssd",
+        "name": "dcentral-docs-216-qmxnt",
         "phase": "Running"
       },
       {
-        "name": "dcentral-docs-ms-520-xrksl",
+        "name": "dcentral-docs-ms-523-hfk22",
         "phase": "Running"
-      },
-      {
-        "name": "dcentral-docs-ms-572-build",
-        "phase": "Failed"
       },
       {
         "name": "dupload-central-docs-82-5xpzl",
         "phase": "Running"
       },
       {
-        "name": "hcentral-docs-119-6f47t",
+        "name": "hcentral-docs-119-4gkxj",
         "phase": "Running"
-      },
-      {
-        "name": "hcentral-docs-132-build",
-        "phase": "Failed"
       },
       {
         "name": "hcentral-docs-133-build",
         "phase": "Failed"
       },
       {
-        "name": "hcentral-docs-ms-453-z4f5w",
+        "name": "hcentral-docs-ms-457-hrf88",
         "phase": "Running"
       },
       {
@@ -831,6 +787,10 @@
       },
       {
         "name": "hupload-central-docs-53-kswt8",
+        "phase": "Running"
+      },
+      {
+        "name": "upload-central-docs-49-2xl25",
         "phase": "Running"
       },
       {
@@ -852,10 +812,6 @@
       {
         "name": "upload-central-docs-49-s7fb9",
         "phase": "Running"
-      },
-      {
-        "name": "upload-central-docs-49-sh9bs",
-        "phase": "Running"
       }
     ]
   },
@@ -863,7 +819,7 @@
     "name": "centralizador-sms",
     "pods": [
       {
-        "name": "homol-centralizador-sms-22-ggsnr",
+        "name": "homol-centralizador-sms-22-cclmb",
         "phase": "Running"
       },
       {
@@ -889,7 +845,7 @@
     "name": "coldfusion-api-management",
     "pods": [
       {
-        "name": "apimanager2021-11-4k2pr",
+        "name": "apimanager2021-11-kjzc8",
         "phase": "Running"
       }
     ]
@@ -906,7 +862,7 @@
         "phase": "Running"
       },
       {
-        "name": "integracao-portal-cf-52-8vpsk",
+        "name": "integracao-portal-cf-52-d9d89",
         "phase": "Running"
       },
       {
@@ -953,7 +909,7 @@
         "phase": "Running"
       },
       {
-        "name": "dform-empregamais-hom-13-rt4ql",
+        "name": "dform-empregamais-hom-13-4bt7q",
         "phase": "Running"
       },
       {
@@ -965,7 +921,7 @@
         "phase": "Running"
       },
       {
-        "name": "redis-dev-2-8mmgs",
+        "name": "redis-dev-2-s9hzr",
         "phase": "Running"
       },
       {
@@ -1032,7 +988,7 @@
         "phase": "Running"
       },
       {
-        "name": "zookeeper-dev-5-vghrr",
+        "name": "zookeeper-dev-5-xw4s7",
         "phase": "Running"
       }
     ]
@@ -1099,7 +1055,7 @@
         "phase": "Running"
       },
       {
-        "name": "dsp-cms-dev-7-kqc7d",
+        "name": "dsp-cms-dev-7-zgblp",
         "phase": "Running"
       },
       {
@@ -1107,7 +1063,7 @@
         "phase": "Running"
       },
       {
-        "name": "dsp-cms-prod-12-52bm5",
+        "name": "dsp-cms-prod-12-j4g29",
         "phase": "Running"
       },
       {
@@ -1115,15 +1071,15 @@
         "phase": "Running"
       },
       {
-        "name": "nginx-dsp-hom-6-p7j6x",
+        "name": "nginx-dsp-hom-6-bdqjd",
         "phase": "Running"
       },
       {
-        "name": "nginx-dsp-prod-6-wpgch",
+        "name": "nginx-dsp-prod-6-2z4fj",
         "phase": "Running"
       },
       {
-        "name": "redis-dsp-dev-3-gktg6",
+        "name": "redis-dsp-dev-3-4dsdt",
         "phase": "Running"
       },
       {
@@ -1140,7 +1096,7 @@
     "name": "dxp-integracao",
     "pods": [
       {
-        "name": "dxp-api-integracao-305-22jm8",
+        "name": "dxp-api-integracao-305-f77gq",
         "phase": "Running"
       },
       {
@@ -1156,11 +1112,11 @@
         "phase": "Running"
       },
       {
-        "name": "dxp-scheduler-690-2d66z",
+        "name": "dxp-scheduler-690-q64g5",
         "phase": "Running"
       },
       {
-        "name": "hom-dxp-api-integracao-146-8kqz4",
+        "name": "hom-dxp-api-integracao-146-ph7f8",
         "phase": "Running"
       },
       {
@@ -1215,7 +1171,7 @@
         "phase": "Running"
       },
       {
-        "name": "novo-relatorio-29-plbq2",
+        "name": "novo-relatorio-29-nl6c2",
         "phase": "Running"
       },
       {
@@ -1228,16 +1184,12 @@
     "name": "frotas",
     "pods": [
       {
-        "name": "cloudcmd-frotas-hom-2-xrljd",
+        "name": "cloudcmd-frotas-hom-2-7pbxk",
         "phase": "Running"
       },
       {
-        "name": "hom-frotas-frontend-351-zlz4g",
+        "name": "hom-frotas-frontend-352-vxn2k",
         "phase": "Running"
-      },
-      {
-        "name": "hom-frotas-frontend-416-build",
-        "phase": "Failed"
       }
     ]
   },
@@ -1245,11 +1197,11 @@
     "name": "ged-repositorio",
     "pods": [
       {
-        "name": "hom-elasticsearch-ged-repositorio-2-cqlqh",
+        "name": "hom-elasticsearch-ged-repositorio-2-ppp59",
         "phase": "Running"
       },
       {
-        "name": "hom-ged-api-426-mg2pm",
+        "name": "hom-ged-api-426-fsbgs",
         "phase": "Running"
       },
       {
@@ -1257,7 +1209,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-ged-front-224-b8qpv",
+        "name": "hom-ged-front-225-rcf9w",
         "phase": "Running"
       },
       {
@@ -1289,11 +1241,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-ged-api-60-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "prod-ged-api-77-7qhp5",
+        "name": "prod-ged-api-77-677jm",
         "phase": "Running"
       },
       {
@@ -1305,11 +1253,11 @@
         "phase": "Running"
       },
       {
-        "name": "prod-kibana-ged-5-mkpd2",
+        "name": "prod-kibana-ged-5-4vmsk",
         "phase": "Running"
       },
       {
-        "name": "prod-logstash-61-h72pv",
+        "name": "prod-logstash-61-bhq8x",
         "phase": "Running"
       }
     ]
@@ -1326,7 +1274,7 @@
         "phase": "Running"
       },
       {
-        "name": "api-gestaoacervo-prod-92-hwhv8",
+        "name": "api-gestaoacervo-prod-92-rl762",
         "phase": "Running"
       },
       {
@@ -1342,7 +1290,7 @@
         "phase": "Running"
       },
       {
-        "name": "cms-saml-prod-17-8ln5h",
+        "name": "cms-saml-prod-17-slpp7",
         "phase": "Running"
       },
       {
@@ -1354,7 +1302,7 @@
         "phase": "Running"
       },
       {
-        "name": "front-gestaoacervo-prod-68-k7gcn",
+        "name": "front-gestaoacervo-prod-68-pkdws",
         "phase": "Running"
       },
       {
@@ -1395,7 +1343,7 @@
     "name": "gestao-educacional",
     "pods": [
       {
-        "name": "dev-sigap-475-rdczs",
+        "name": "dev-sigap-476-qz4fv",
         "phase": "Running"
       },
       {
@@ -1403,7 +1351,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-sigap-278-xlnzt",
+        "name": "hom-sigap-281-82tc4",
         "phase": "Running"
       },
       {
@@ -1441,10 +1389,6 @@
         "phase": "Running"
       },
       {
-        "name": "dev-gestao-expediente-63-build",
-        "phase": "Failed"
-      },
-      {
         "name": "hom-gestao-expediente-113-build",
         "phase": "Failed"
       },
@@ -1479,7 +1423,7 @@
     "name": "graduacao-sp",
     "pods": [
       {
-        "name": "cms-15-pkct4",
+        "name": "cms-15-sfgk5",
         "phase": "Running"
       },
       {
@@ -1500,7 +1444,7 @@
         "phase": "Running"
       },
       {
-        "name": "gep-nec-cursos-03-3-xksjx",
+        "name": "gep-nec-cursos-03-3-b4ngk",
         "phase": "Running"
       },
       {
@@ -1560,7 +1504,7 @@
         "phase": "Running"
       },
       {
-        "name": "gep-nec-cursos-saude-mental-post-suicidio-4-c4ld9",
+        "name": "gep-nec-cursos-saude-mental-post-suicidio-4-dppjw",
         "phase": "Running"
       },
       {
@@ -1592,7 +1536,7 @@
         "phase": "Running"
       },
       {
-        "name": "rta-externo-5-6wmt2",
+        "name": "rta-externo-5-t8ppq",
         "phase": "Running"
       },
       {
@@ -1609,7 +1553,7 @@
     "name": "gtea-banco-ferramentas-digitais",
     "pods": [
       {
-        "name": "banco-ferramentas-digitais-43-vc7dq",
+        "name": "banco-ferramentas-digitais-44-k8xzt",
         "phase": "Running"
       }
     ]
@@ -1653,7 +1597,7 @@
     "name": "hom-api-gateway-senac",
     "pods": [
       {
-        "name": "apicast-production-7-vl762",
+        "name": "apicast-production-7-h52jk",
         "phase": "Running"
       },
       {
@@ -1677,7 +1621,7 @@
         "phase": "Running"
       },
       {
-        "name": "system-app-5-x2mpk",
+        "name": "system-app-5-vnc2x",
         "phase": "Running"
       },
       {
@@ -1735,7 +1679,7 @@
         "phase": "Running"
       },
       {
-        "name": "rhsso-custom-1-vkf2h",
+        "name": "rhsso-custom-1-bmmgk",
         "phase": "Running"
       },
       {
@@ -1756,7 +1700,7 @@
         "phase": "Running"
       },
       {
-        "name": "valida-escala-14-nm4k4",
+        "name": "valida-escala-14-hnnx2",
         "phase": "Running"
       }
     ]
@@ -1780,12 +1724,7 @@
   },
   "ideias": {
     "name": "ideias",
-    "pods": [
-      {
-        "name": "ideias-hom-63-build",
-        "phase": "Failed"
-      }
-    ]
+    "pods": []
   },
   "infra-storage": {
     "name": "infra-storage",
@@ -1820,7 +1759,7 @@
         "phase": "Running"
       },
       {
-        "name": "hformdinamico-12-8rxkz",
+        "name": "hformdinamico-12-47z7j",
         "phase": "Running"
       },
       {
@@ -1937,7 +1876,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-dados-pessoais-inscricao-bolsa-26-j9wnb",
+        "name": "prod-dados-pessoais-inscricao-bolsa-26-k5ks6",
         "phase": "Running"
       },
       {
@@ -2018,7 +1957,7 @@
         "phase": "Running"
       },
       {
-        "name": "assina-eletron-cms-hom-7-chwz2",
+        "name": "assina-eletron-cms-hom-7-4r74z",
         "phase": "Running"
       },
       {
@@ -2101,7 +2040,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-integracao-paradigma-31-std75",
+        "name": "prod-integracao-paradigma-32-7twk8",
         "phase": "Running"
       }
     ]
@@ -2156,7 +2095,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-solr-intranet-10-tj776",
+        "name": "hom-solr-intranet-10-cc6db",
         "phase": "Running"
       },
       {
@@ -2168,7 +2107,7 @@
         "phase": "Running"
       },
       {
-        "name": "solr-intranet-4-9mzvz",
+        "name": "solr-intranet-4-r5rqt",
         "phase": "Running"
       }
     ]
@@ -2243,15 +2182,11 @@
         "phase": "Running"
       },
       {
-        "name": "cyclonedx-10-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "cyclonedx-14-g2j45",
+        "name": "cyclonedx-14-9vqg8",
         "phase": "Running"
       },
       {
-        "name": "mongodb-1-82mjd",
+        "name": "mongodb-1-kb6zb",
         "phase": "Running"
       },
       {
@@ -2417,7 +2352,7 @@
     "name": "lotacao-de-pessoal",
     "pods": [
       {
-        "name": "hom-lotacao-de-pessoal-46-5w8z9",
+        "name": "hom-lotacao-de-pessoal-46-8x6bj",
         "phase": "Running"
       },
       {
@@ -2455,11 +2390,11 @@
         "phase": "Running"
       },
       {
-        "name": "hom-mpg-psg-9-hknmt",
+        "name": "hom-mpg-psg-9-sql7t",
         "phase": "Running"
       },
       {
-        "name": "mpg-psg-6-f9jwk",
+        "name": "mpg-psg-6-gxt6s",
         "phase": "Running"
       },
       {
@@ -2471,7 +2406,7 @@
         "phase": "Running"
       },
       {
-        "name": "mpg-psg-front-hom-111-n84jx",
+        "name": "mpg-psg-front-hom-111-hvt9j",
         "phase": "Running"
       },
       {
@@ -2492,7 +2427,7 @@
     "name": "matriz-de-atendimento",
     "pods": [
       {
-        "name": "atendimento-back-dev-125-bw545",
+        "name": "atendimento-back-dev-126-gth5v",
         "phase": "Running"
       },
       {
@@ -2500,11 +2435,7 @@
         "phase": "Failed"
       },
       {
-        "name": "atendimento-back-dev-97-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "atendimento-front-dev-27-7xcd2",
+        "name": "atendimento-front-dev-27-8zw6z",
         "phase": "Running"
       },
       {
@@ -2571,7 +2502,7 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-mochila-402-lgljh",
+        "name": "hom-mochila-404-7bk6v",
         "phase": "Running"
       },
       {
@@ -2583,23 +2514,23 @@
         "phase": "Running"
       },
       {
-        "name": "mochila-api-integracao-28-b2hpd",
-        "phase": "Running"
-      },
-      {
         "name": "mochila-api-integracao-28-jkqs4",
         "phase": "Running"
       },
       {
-        "name": "mochila-integracao-17-wtxd9",
+        "name": "mochila-api-integracao-28-xx8qg",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-integracao-17-7blzc",
+        "phase": "Running"
+      },
+      {
+        "name": "mochila-matricula-emed-19-5qkll",
         "phase": "Running"
       },
       {
         "name": "mochila-matricula-emed-19-67g4j",
-        "phase": "Running"
-      },
-      {
-        "name": "mochila-matricula-emed-19-vbl29",
         "phase": "Running"
       },
       {
@@ -2615,11 +2546,11 @@
         "phase": "Running"
       },
       {
-        "name": "mochila-rematricula-emed-27-jn4pk",
+        "name": "mochila-rematricula-emed-27-hxwbh",
         "phase": "Running"
       },
       {
-        "name": "mochila-rematricula-emed-27-zrp9b",
+        "name": "mochila-rematricula-emed-27-jn4pk",
         "phase": "Running"
       },
       {
@@ -2666,11 +2597,11 @@
     "name": "mongodb-stack",
     "pods": [
       {
-        "name": "mongo-express-16-br9vp",
+        "name": "mongo-express-16-zl956",
         "phase": "Running"
       },
       {
-        "name": "mongodb-community-server-7-mstrl",
+        "name": "mongodb-community-server-7-htcgt",
         "phase": "Running"
       }
     ]
@@ -2679,7 +2610,7 @@
     "name": "monitor-coldfusion",
     "pods": [
       {
-        "name": "monitor-cf-29-qj5sg",
+        "name": "monitor-cf-30-bs2vj",
         "phase": "Running"
       }
     ]
@@ -2764,7 +2695,7 @@
         "phase": "Failed"
       },
       {
-        "name": "ms-bu-cidades-10-wrnmh",
+        "name": "ms-bu-cidades-10-5s5tm",
         "phase": "Running"
       },
       {
@@ -2777,7 +2708,7 @@
     "name": "ms-bu-consulta-bureau",
     "pods": [
       {
-        "name": "bu-api-consulta-bureau-32-rdw8x",
+        "name": "bu-api-consulta-bureau-32-kkdgf",
         "phase": "Running"
       },
       {
@@ -2855,11 +2786,11 @@
     "name": "ms-whatsapp",
     "pods": [
       {
-        "name": "hom-ms-whatsapp-5-g2jp6",
+        "name": "hom-ms-whatsapp-5-glt8z",
         "phase": "Running"
       },
       {
-        "name": "prod-ms-whatsapp-4-wlqzn",
+        "name": "prod-ms-whatsapp-4-8vrmz",
         "phase": "Running"
       }
     ]
@@ -2897,7 +2828,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-api-baseunica-ead-37-c9678",
+        "name": "hom-api-baseunica-ead-37-w7jnp",
         "phase": "Running"
       }
     ]
@@ -2981,7 +2912,7 @@
         "phase": "Running"
       },
       {
-        "name": "hpainel-matriculas-ms-272-ph6f5",
+        "name": "hpainel-matriculas-ms-272-zkckj",
         "phase": "Running"
       },
       {
@@ -3019,7 +2950,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-patrimonio-2500-v897z",
+        "name": "hom-patrimonio-2515-d5bjn",
         "phase": "Running"
       },
       {
@@ -3027,7 +2958,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-patrimonio-347-zqx2x",
+        "name": "prod-patrimonio-347-m55rj",
         "phase": "Running"
       }
     ]
@@ -3066,7 +2997,7 @@
         "phase": "Running"
       },
       {
-        "name": "back-ponto-102-ljv6f",
+        "name": "back-ponto-102-g4phm",
         "phase": "Running"
       },
       {
@@ -3086,10 +3017,6 @@
         "phase": "Running"
       },
       {
-        "name": "back-ponto-relatorio-20-72g7j",
-        "phase": "Running"
-      },
-      {
         "name": "back-ponto-relatorio-20-9ldsc",
         "phase": "Running"
       },
@@ -3099,6 +3026,10 @@
       },
       {
         "name": "back-ponto-relatorio-20-sjzd7",
+        "phase": "Running"
+      },
+      {
+        "name": "back-ponto-relatorio-20-tkz46",
         "phase": "Running"
       },
       {
@@ -3139,7 +3070,7 @@
         "phase": "Running"
       },
       {
-        "name": "portal-api-183-bmrvc",
+        "name": "portal-api-183-llpmh",
         "phase": "Running"
       },
       {
@@ -3156,15 +3087,23 @@
         "phase": "Running"
       },
       {
+        "name": "dxp-407-build",
+        "phase": "Succeeded"
+      },
+      {
         "name": "enterprisesearch-0",
         "phase": "Running"
       },
       {
-        "name": "hom2-integracao-sapiens-72-g4xkz",
+        "name": "hom2-integracao-sapiens-72-v8z5x",
         "phase": "Running"
       },
       {
-        "name": "hom2-sync-dxp-192-bwsjz",
+        "name": "hom2-sync-dxp-186-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom2-sync-dxp-194-n5xm8",
         "phase": "Running"
       },
       {
@@ -3172,7 +3111,7 @@
         "phase": "Failed"
       },
       {
-        "name": "liferay-dxp-447-zglzt",
+        "name": "liferay-dxp-452-qgwjf",
         "phase": "Running"
       }
     ]
@@ -3183,10 +3122,6 @@
       {
         "name": "cloudcmd-4-zglw9",
         "phase": "Running"
-      },
-      {
-        "name": "dxp-prod-192-build",
-        "phase": "Failed"
       },
       {
         "name": "elasticsearch-4-9tl4j",
@@ -3217,7 +3152,7 @@
         "phase": "Running"
       },
       {
-        "name": "integracao-sapiens-28-k5g8n",
+        "name": "integracao-sapiens-28-c6lb6",
         "phase": "Running"
       },
       {
@@ -3229,35 +3164,35 @@
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-596d5",
+        "name": "liferay-dxp-326-cqt65",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-6kq4f",
+        "name": "liferay-dxp-326-dkpdx",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-8rtrj",
+        "name": "liferay-dxp-326-mg5zn",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-f2fhr",
+        "name": "liferay-dxp-326-nkhh4",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-pzklf",
+        "name": "liferay-dxp-326-pqt9t",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-szzhh",
+        "name": "liferay-dxp-326-r4x9d",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-tbctg",
+        "name": "liferay-dxp-326-tgglg",
         "phase": "Running"
       },
       {
-        "name": "liferay-dxp-325-wgg28",
+        "name": "liferay-dxp-326-wddlc",
         "phase": "Running"
       },
       {
@@ -3270,15 +3205,15 @@
     "name": "portal-ead",
     "pods": [
       {
+        "name": "area-exclusiva-120-cc8cd",
+        "phase": "Running"
+      },
+      {
         "name": "area-exclusiva-120-gz7gv",
         "phase": "Running"
       },
       {
-        "name": "area-exclusiva-120-j45mq",
-        "phase": "Running"
-      },
-      {
-        "name": "area-exclusiva-120-wmtrw",
+        "name": "area-exclusiva-120-jp454",
         "phase": "Running"
       },
       {
@@ -3298,7 +3233,7 @@
         "phase": "Running"
       },
       {
-        "name": "ecommerce-ead-31-ptjvr",
+        "name": "ecommerce-ead-31-n4qrm",
         "phase": "Running"
       },
       {
@@ -3306,7 +3241,7 @@
         "phase": "Running"
       },
       {
-        "name": "galeria-ead-87-h5856",
+        "name": "galeria-ead-87-fskqj",
         "phase": "Running"
       },
       {
@@ -3318,7 +3253,7 @@
         "phase": "Running"
       },
       {
-        "name": "portal-ead-155-dhsfk",
+        "name": "portal-ead-155-wfzbc",
         "phase": "Running"
       },
       {
@@ -3326,11 +3261,11 @@
         "phase": "Running"
       },
       {
-        "name": "solr-31-7595f",
+        "name": "solr-31-zdrh2",
         "phase": "Running"
       },
       {
-        "name": "usuario-unico-58-ww4z5",
+        "name": "usuario-unico-58-r4dwf",
         "phase": "Running"
       },
       {
@@ -3359,12 +3294,8 @@
         "phase": "Running"
       },
       {
-        "name": "hom-cms-ead-187-rdswv",
+        "name": "hom-cms-ead-187-grvgk",
         "phase": "Running"
-      },
-      {
-        "name": "hom-cms-ead-204-build",
-        "phase": "Failed"
       },
       {
         "name": "hom-ead-galeria-27-g8v8w",
@@ -3375,11 +3306,11 @@
         "phase": "Running"
       },
       {
-        "name": "hom-login-unico-ead-79-ddz4x",
+        "name": "hom-login-unico-ead-79-869ll",
         "phase": "Running"
       },
       {
-        "name": "hom-portal-ead-228-cr9zq",
+        "name": "hom-portal-ead-228-ptqgm",
         "phase": "Running"
       },
       {
@@ -3389,10 +3320,6 @@
       {
         "name": "hom-usuar-uni-ead-106-x8lkl",
         "phase": "Running"
-      },
-      {
-        "name": "hom-usuar-uni-ead-70-build",
-        "phase": "Failed"
       },
       {
         "name": "solr-proxy-ead-9-zrkdl",
@@ -3408,11 +3335,15 @@
     "name": "portal-senac-fila",
     "pods": [
       {
-        "name": "kafka-backend-72-5h6jd",
+        "name": "kafka-backend-72-22wht",
         "phase": "Running"
       },
       {
-        "name": "kafka-backend-72-5k9fx",
+        "name": "kafka-backend-72-6xpp5",
+        "phase": "Running"
+      },
+      {
+        "name": "kafka-backend-72-728g6",
         "phase": "Running"
       },
       {
@@ -3444,11 +3375,7 @@
         "phase": "Running"
       },
       {
-        "name": "kafka-backend-72-vqw29",
-        "phase": "Running"
-      },
-      {
-        "name": "kafka-backend-balance-24-2x9mv",
+        "name": "kafka-backend-balance-24-46jpl",
         "phase": "Running"
       },
       {
@@ -3460,6 +3387,10 @@
         "phase": "Running"
       },
       {
+        "name": "kafka-backend-balance-24-6vnt6",
+        "phase": "Running"
+      },
+      {
         "name": "kafka-backend-balance-24-9g4t5",
         "phase": "Running"
       },
@@ -3468,15 +3399,11 @@
         "phase": "Running"
       },
       {
-        "name": "kafka-backend-balance-24-k4pbt",
+        "name": "kafka-backend-balance-24-csjgl",
         "phase": "Running"
       },
       {
         "name": "kafka-backend-balance-24-sjscb",
-        "phase": "Running"
-      },
-      {
-        "name": "kafka-backend-balance-24-t8w9j",
         "phase": "Running"
       },
       {
@@ -3517,7 +3444,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-portal-frontend-16-2z8fs",
+        "name": "prod-portal-frontend-16-7vnnq",
         "phase": "Running"
       },
       {
@@ -3534,27 +3461,27 @@
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-c2t62",
+        "name": "portal-service-15-8m47m",
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-dndgm",
+        "name": "portal-service-15-fhzqp",
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-hj8zw",
+        "name": "portal-service-15-jd6jl",
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-qlxgq",
+        "name": "portal-service-15-lggsg",
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-w556g",
+        "name": "portal-service-15-qzzkz",
         "phase": "Running"
       },
       {
-        "name": "portal-service-14-wdscf",
+        "name": "portal-service-15-sxp52",
         "phase": "Running"
       }
     ]
@@ -3601,7 +3528,7 @@
         "phase": "Running"
       },
       {
-        "name": "emed-inscricao-backend-hom-200-qsct8",
+        "name": "emed-inscricao-backend-hom-200-bghkz",
         "phase": "Running"
       },
       {
@@ -3641,7 +3568,7 @@
         "phase": "Running"
       },
       {
-        "name": "inscricao-bolsa-hom-28-hs7vc",
+        "name": "inscricao-bolsa-hom-28-s8vg7",
         "phase": "Running"
       },
       {
@@ -3649,28 +3576,28 @@
         "phase": "Running"
       },
       {
-        "name": "processo-seletivo-dev-1114-4hnzm",
+        "name": "processo-seletivo-dev-1116-qszwq",
         "phase": "Running"
-      },
-      {
-        "name": "processo-seletivo-hom-1160-deploy",
-        "phase": "Failed"
       },
       {
         "name": "processo-seletivo-hom-1179-m664d",
         "phase": "Running"
       },
       {
-        "name": "processo-seletivo-prod-116-24dvm",
+        "name": "processo-seletivo-prod-118-hjv49",
         "phase": "Running"
       },
       {
-        "name": "processo-seletivo-prod-116-ljzzm",
+        "name": "processo-seletivo-prod-118-lxbqc",
         "phase": "Running"
       },
       {
-        "name": "processo-seletivo-prod-116-rgcnr",
+        "name": "processo-seletivo-prod-118-mrl9t",
         "phase": "Running"
+      },
+      {
+        "name": "processo-seletivo-prod-125-build",
+        "phase": "Succeeded"
       },
       {
         "name": "processo-seletivo-redis-4-6ldr9",
@@ -3682,7 +3609,7 @@
     "name": "processo-seletivo-legado",
     "pods": [
       {
-        "name": "dev-processo-seletivo-legado-1-vv8ft",
+        "name": "dev-processo-seletivo-legado-1-b8zj8",
         "phase": "Running"
       }
     ]
@@ -3715,7 +3642,7 @@
         "phase": "Running"
       },
       {
-        "name": "producao-360-frontend-prod-2-llct9",
+        "name": "producao-360-frontend-prod-2-v5gl6",
         "phase": "Running"
       },
       {
@@ -3770,11 +3697,11 @@
     "name": "projeto-atendimento-eds",
     "pods": [
       {
-        "name": "dev-atendimento-eds-220-xk7qz",
+        "name": "dev-atendimento-eds-220-hsr2f",
         "phase": "Running"
       },
       {
-        "name": "dev-eds-front-99-txmg8",
+        "name": "dev-eds-front-99-7ntm4",
         "phase": "Running"
       },
       {
@@ -3794,11 +3721,11 @@
         "phase": "Running"
       },
       {
-        "name": "prod-atendimento-eds-118-2nvpg",
+        "name": "prod-atendimento-eds-118-2vv8w",
         "phase": "Running"
       },
       {
-        "name": "prod-atendimento-eds-118-gw2h4",
+        "name": "prod-atendimento-eds-118-5pwcc",
         "phase": "Running"
       },
       {
@@ -3827,7 +3754,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-auth-api-4-pb6vq",
+        "name": "prod-auth-api-4-5x2pz",
         "phase": "Running"
       },
       {
@@ -3835,7 +3762,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-storage-api-5-xdqnh",
+        "name": "prod-storage-api-5-mkdnh",
         "phase": "Running"
       }
     ]
@@ -3848,20 +3775,12 @@
         "phase": "Running"
       },
       {
-        "name": "ficha-psg-backend-hom-100-build",
-        "phase": "Failed"
-      },
-      {
         "name": "ficha-psg-backend-hom-90-v6rlj",
         "phase": "Running"
       },
       {
         "name": "ficha-psg-backend-prod-24-bw4rg",
         "phase": "Running"
-      },
-      {
-        "name": "ficha-psg-frontend-dev-28-build",
-        "phase": "Failed"
       },
       {
         "name": "ficha-psg-frontend-dev-28-kkfv9",
@@ -3872,16 +3791,12 @@
         "phase": "Failed"
       },
       {
-        "name": "ficha-psg-frontend-hom-35-qmcx9",
+        "name": "ficha-psg-frontend-hom-37-b2wzc",
         "phase": "Running"
       },
       {
         "name": "ficha-psg-frontend-prod-17-p9w99",
         "phase": "Running"
-      },
-      {
-        "name": "ficha-psg-frontend-prod-19-build",
-        "phase": "Failed"
       }
     ]
   },
@@ -3919,7 +3834,7 @@
     "name": "rede-fisica",
     "pods": [
       {
-        "name": "relatorio-dn-19-79l7x",
+        "name": "relatorio-dn-19-wfr9d",
         "phase": "Running"
       }
     ]
@@ -3961,7 +3876,7 @@
         "phase": "Running"
       },
       {
-        "name": "relatorio-rhev-prod-20-2stlz",
+        "name": "relatorio-rhev-prod-20-rq8qk",
         "phase": "Running"
       }
     ]
@@ -3999,7 +3914,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-requisicao-demissao-44-pcfnc",
+        "name": "hom-requisicao-demissao-44-vl5f8",
         "phase": "Running"
       },
       {
@@ -4029,7 +3944,7 @@
     "name": "rhevolution-integracao",
     "pods": [
       {
-        "name": "hom-rhev-api-113-ml9gq",
+        "name": "hom-rhev-api-113-6jtft",
         "phase": "Running"
       },
       {
@@ -4037,7 +3952,7 @@
         "phase": "Failed"
       },
       {
-        "name": "rhev-api-124-rl6tx",
+        "name": "rhev-api-124-67k8x",
         "phase": "Running"
       }
     ]
@@ -4096,11 +4011,11 @@
         "phase": "Running"
       },
       {
-        "name": "hom-sec-api-7-cnm6f",
+        "name": "hom-sec-api-7-fxdd8",
         "phase": "Running"
       },
       {
-        "name": "hom-sec-cms-14-bnjhm",
+        "name": "hom-sec-cms-14-ffvts",
         "phase": "Running"
       },
       {
@@ -4162,7 +4077,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-selo-gti-123-x2w4d",
+        "name": "hom-selo-gti-123-cgdm2",
         "phase": "Running"
       },
       {
@@ -4187,7 +4102,7 @@
     "name": "senac-carreiras",
     "pods": [
       {
-        "name": "dev-senac-carreiras-1819-5cnnf",
+        "name": "dev-senac-carreiras-1841-j5fkj",
         "phase": "Running"
       },
       {
@@ -4195,7 +4110,11 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-senac-carreiras-134-5mxjs",
+        "name": "dev-senac-carreiras-2005-build",
+        "phase": "Succeeded"
+      },
+      {
+        "name": "hom-senac-carreiras-137-jzwvz",
         "phase": "Running"
       },
       {
@@ -4220,19 +4139,19 @@
     "name": "servicos-financeiros",
     "pods": [
       {
-        "name": "ged-ocr-backend-233-k7mwq",
+        "name": "ged-ocr-backend-236-jgdp7",
         "phase": "Running"
       },
       {
-        "name": "hom-ged-ocr-backend-459-ntdzz",
+        "name": "hom-ged-ocr-backend-462-g7wn8",
         "phase": "Running"
       },
       {
-        "name": "hom-integracao-gef-34-sncs2",
+        "name": "hom-integracao-gef-34-2v9wl",
         "phase": "Running"
       },
       {
-        "name": "hom-reembolso-backend-199-4fmx6",
+        "name": "hom-reembolso-backend-200-s98w2",
         "phase": "Running"
       },
       {
@@ -4240,11 +4159,11 @@
         "phase": "Failed"
       },
       {
-        "name": "hom-serv-financ-frontend-449-62nwp",
+        "name": "hom-serv-financ-frontend-450-gbf5f",
         "phase": "Running"
       },
       {
-        "name": "mongo-express-serv-finan-5-dshkt",
+        "name": "mongo-express-serv-finan-5-xrwqg",
         "phase": "Running"
       },
       {
@@ -4252,15 +4171,15 @@
         "phase": "Running"
       },
       {
-        "name": "prod-integracao-gef-23-jfbgn",
+        "name": "prod-integracao-gef-24-jwnhl",
         "phase": "Running"
       },
       {
-        "name": "prod-reembolso-backend-57-9b792",
+        "name": "prod-reembolso-backend-57-dq5rg",
         "phase": "Running"
       },
       {
-        "name": "serv-financ-prod-108-2ljtl",
+        "name": "serv-financ-prod-111-mjpk5",
         "phase": "Running"
       }
     ]
@@ -4324,7 +4243,7 @@
         "phase": "Running"
       },
       {
-        "name": "agm-24-pbz9k",
+        "name": "agm-24-s9pkz",
         "phase": "Running"
       },
       {
@@ -4332,7 +4251,7 @@
         "phase": "Running"
       },
       {
-        "name": "custom-rhev-94-j68ht",
+        "name": "custom-rhev-95-jbccn",
         "phase": "Running"
       },
       {
@@ -4340,7 +4259,7 @@
         "phase": "Running"
       },
       {
-        "name": "formulario-prestador-97-r2d2s",
+        "name": "formulario-prestador-97-js8lz",
         "phase": "Running"
       },
       {
@@ -4411,7 +4330,7 @@
         "phase": "Running"
       },
       {
-        "name": "hom-sms-senac-33-27pvw",
+        "name": "hom-sms-senac-33-dhcjj",
         "phase": "Running"
       },
       {
@@ -4470,7 +4389,7 @@
     "name": "squad-inovacao-sandbox",
     "pods": [
       {
-        "name": "prod-sandbox-1-w9vml",
+        "name": "prod-sandbox-1-8gl5c",
         "phase": "Running"
       }
     ]
@@ -4483,7 +4402,7 @@
         "phase": "Running"
       },
       {
-        "name": "inovacao-casodeuso-4-b4pzs",
+        "name": "inovacao-casodeuso-4-ldxh8",
         "phase": "Running"
       }
     ]
@@ -4492,19 +4411,15 @@
     "name": "sso-76",
     "pods": [
       {
-        "name": "cloudcmd-9-nvlc8",
+        "name": "cloudcmd-9-jfkkj",
         "phase": "Running"
       },
       {
-        "name": "job-scheduler-rh-sso-65-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "job-scheduler-rh-sso-68-cq885",
+        "name": "job-scheduler-rh-sso-68-8qf5x",
         "phase": "Running"
       },
       {
-        "name": "sso-senac-80-klvgh",
+        "name": "sso-senac-80-gjgw2",
         "phase": "Running"
       },
       {
@@ -4517,15 +4432,15 @@
     "name": "teste-blog-grande-hotel-eventos",
     "pods": [
       {
-        "name": "cloudcmd-8-rbn8p",
+        "name": "cloudcmd-8-xd9vf",
         "phase": "Running"
       },
       {
-        "name": "grande-hotel-eventos-23-vbgmq",
+        "name": "grande-hotel-eventos-23-5npxp",
         "phase": "Running"
       },
       {
-        "name": "mysql-grandehoteleventos-4-jdxht",
+        "name": "mysql-grandehoteleventos-4-ntx97",
         "phase": "Running"
       }
     ]
@@ -4538,7 +4453,7 @@
     "name": "testlink",
     "pods": [
       {
-        "name": "mariadb-6-qmd7q",
+        "name": "mariadb-6-g56jq",
         "phase": "Running"
       },
       {
@@ -4551,23 +4466,23 @@
     "name": "usuario-unico",
     "pods": [
       {
-        "name": "hom-usuario-unico-sp-81-5zjst",
+        "name": "hom-usuario-unico-sp-83-2v2t5",
         "phase": "Running"
       },
       {
-        "name": "hom-usuario-unico-sp-81-c5jh4",
+        "name": "hom-usuario-unico-sp-83-dvrlc",
         "phase": "Running"
       },
       {
-        "name": "hom-usuario-unico-sp-81-nbvnr",
+        "name": "hom-usuario-unico-sp-83-nhjf8",
         "phase": "Running"
       },
       {
-        "name": "hom-usuario-unico-sp-81-s9rss",
+        "name": "hom-usuario-unico-sp-83-rc2qg",
         "phase": "Running"
       },
       {
-        "name": "hom-usuario-unico-sp-81-tc5tp",
+        "name": "hom-usuario-unico-sp-83-rlzbb",
         "phase": "Running"
       },
       {
@@ -4654,51 +4569,47 @@
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-hom-157-b4wtw",
+        "name": "ws-pessoa-ge-hom-162-d7dkf",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-hom-192-build",
-        "phase": "Failed"
-      },
-      {
-        "name": "ws-pessoa-ge-prod-81-2bt79",
+        "name": "ws-pessoa-ge-prod-86-4d9qm",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-4k9bw",
+        "name": "ws-pessoa-ge-prod-86-86jr4",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-7crsk",
+        "name": "ws-pessoa-ge-prod-86-cswqm",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-cbln2",
+        "name": "ws-pessoa-ge-prod-86-gklb2",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-gzhj6",
+        "name": "ws-pessoa-ge-prod-86-h45rl",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-hjght",
+        "name": "ws-pessoa-ge-prod-86-h7w87",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-jkcbc",
+        "name": "ws-pessoa-ge-prod-86-hhdtf",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-mlq9v",
+        "name": "ws-pessoa-ge-prod-86-lnxwj",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-rjqwq",
+        "name": "ws-pessoa-ge-prod-86-rs6f2",
         "phase": "Running"
       },
       {
-        "name": "ws-pessoa-ge-prod-81-zwfn6",
+        "name": "ws-pessoa-ge-prod-86-scldf",
         "phase": "Running"
       }
     ]
@@ -4720,7 +4631,7 @@
     "name": "wse-boleto",
     "pods": [
       {
-        "name": "dev-wse-boleto-9-g6sf2",
+        "name": "dev-wse-boleto-9-4czgq",
         "phase": "Running"
       },
       {
@@ -4749,11 +4660,15 @@
     "name": "wse-bolsas",
     "pods": [
       {
-        "name": "dev-wse-bolsas-22-nvvmr",
+        "name": "dev-wse-bolsas-22-zfwvr",
         "phase": "Running"
       },
       {
         "name": "hom-wse-bolsas-27-cs4ln",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-bolsas-21-8mfj7",
         "phase": "Running"
       },
       {
@@ -4762,10 +4677,6 @@
       },
       {
         "name": "prod-wse-bolsas-21-f664g",
-        "phase": "Running"
-      },
-      {
-        "name": "prod-wse-bolsas-21-lkslr",
         "phase": "Running"
       },
       {
@@ -4811,7 +4722,7 @@
         "phase": "Running"
       },
       {
-        "name": "prod-wse-cursos-28-4qjfs",
+        "name": "prod-wse-cursos-28-66cxb",
         "phase": "Running"
       },
       {
@@ -4819,15 +4730,11 @@
         "phase": "Running"
       },
       {
-        "name": "prod-wse-cursos-28-bhzhk",
-        "phase": "Running"
-      },
-      {
-        "name": "prod-wse-cursos-28-bm67j",
-        "phase": "Running"
-      },
-      {
         "name": "prod-wse-cursos-28-f4rwd",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-fkdlv",
         "phase": "Running"
       },
       {
@@ -4848,6 +4755,10 @@
       },
       {
         "name": "prod-wse-cursos-28-r2bm9",
+        "phase": "Running"
+      },
+      {
+        "name": "prod-wse-cursos-28-rx6m8",
         "phase": "Running"
       }
     ]
@@ -4873,7 +4784,7 @@
     "name": "wse-teams",
     "pods": [
       {
-        "name": "dev-wse-teams-1-mz69m",
+        "name": "dev-wse-teams-1-frmlm",
         "phase": "Running"
       },
       {
